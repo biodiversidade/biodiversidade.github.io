@@ -5,7 +5,7 @@ Open Access Scientific Research (CC BY 4.0). [PDF](diversidade_brasil_final.pdf)
 
 SONI-NETO, Jamil.
 Pesquisa independente e livre, Brasil, 2021.
-jamilbio20@gmail.com
+jamilbio20 [at] gmail [dot] com
 
 
 ## ABSTRACT
