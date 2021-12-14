@@ -36,9 +36,11 @@ A taxa de diversidade pode ser calculada pela diferença entre as taxas de espec
 Pimm (2014) faz um apanhado do número geral de espécies. Sem contar as archaeas, bactérias, fungos e vírus, estima-se que haja por volta de 1,5-1,9 milhões de espécies descritas (ver também Mora, 2011), enquanto a grande maioria ainda não foi. O número total de plantas terrestres deva ser maior que 450 mil. Estimativas de números de animais vão de três a 11 milhões de espécies no planeta Terra, sendo estimados entre cinco e seis milhões de espécies de insetos somente, enquanto outros autores questionam a possibilidade de uma estimativa plausível quando consideram as incertezas nos números de insetos e fungos. Espécies marinhas são estimadas entre 700 mil e 2,2 milhões, com somente aproximadamente 226 mil descritas. A média de período de existência de espécies de invertebrados e vertebrados verificada é de um a dez milhões de anos (vide taxas de extinção, tabelas 1 e 2).
 
 
+[[tabela]]
 Tabela 1. Taxas estimadas de extinção e especiação de plantas no passado distante (fundo), passado recente (Antropoceno) e futuro (projetado). Espécies por milhão de anos por ano ou, alternativamente, espécies por espécies por milhão de anos; por exemplo, uma especiação estimada em 1,0 S/MSY significa que a cada milhão de espécies uma nova espécie surgirá a cada ano, ou, equivalentemente, cada espécie tem a probabilidade de gerar uma espécie adicional a cada milhão de anos (Vellend, 2017).
 
 
+[[tabela]]
 Tabela 2. Extinções desde 1500 de acordo com o IUCN e CREO. Por base de unidade de área, a taxa de extinção nas ilhas foi 177 vezes maior para os mamíferos e 187 vezes maior para as aves do que nos continentes. A taxa continental de extinção de mamíferos foi entre 0,89 e 7,4 vezes a de fundo, enquanto a taxa de extinção de mamíferos de ilhas foi entre 82 e 702 vezes a de fundo. A taxa de extinção de aves continentais foi entre 0,69 e 5,9 vezes a de fundo, enquanto para ilhas foi entre 98 e 844 vezes a de fundo. Razão das taxas de ilha/continente (I/C). Extinções pré-históricas não documentadas, principalmente em ilhas, ampliam essas tendências. As taxas de extinção de ilhas são muito mais altas do que as taxas continentais, em grande parte devido à introdução de predadores alienígenas (incluindo o homem) e doenças (Loehle & Eschenbach, 2012).
 
 
@@ -51,6 +53,7 @@ Na história geológica, houve cinco grandes eventos de extinção, todos regist
 Close (2019) evidencia um aumento de diversidade na riqueza local durante o Cretáceo (K) e Paleogêneo (Pg), seguido de relativa estase até o presente nos tetrápodes terrestres. O padrão de estase em riqueza local de espécies antes e depois da fronteira K/Pg foi quebrado por um aumento abrupto de duas a três vezes no número de espécies. 
 
 
+[[figura]]
 Figura 1. Padrões de diversificação de animais marinhos com esqueletos bem formados, contados como: A, ordens; B, famílias; C, gêneros; e D, espécies. Contagens ordinal, familial e genérica são baseadas em dados empíricos, enquanto que a curva de espécies é baseada em contagens reais e em simulações. A curva é plotada como porcentagens do total moderno (100%) (Benton & Emerson, 2007). 
 
 
@@ -71,6 +74,7 @@ Em Daskalova e Dornelas (2020), no domínio terrestre, estudou-se a prevalência
 Programas de conservação consagrados “sucessos ecológicos” são opinião de cada grupo e seus propósitos debatíveis (Barnaud, 2021; Cardinale, 2018), por exemplo como conciliar esforços de conservação de espécies que necessitam de recursos conflitantes (até mesmo com o ser humano) (Ceballos, 2005)?
 
 
+[[figura]]
 Figura 2. Painel superior: o LRS (razão logarítmica de riqueza de espécies) contra a escala espacial logarítmica. Círculos claros são de dados provenientes de observações e círculos escuros são baseadas em listas de checagem. Dados apresentados para (A) aves terrestres, (B) plantas terrestres, (C) mamíferos terrestres e (D) peixes marinhos durante o Antropoceno. A linha sólida representa o melhor ajuste de uma regressão quadrática ordinária dos mínimos quadrados e a linha tracejada são os quantis de 10% e 90%. Dependência de contexto (escala) cria uma ampla gama de variações para cada forçante, em qualquer das direções (Chase, 2019). Painel inferior: em comparação, gráfico similar para plantas terrestres de Vellend (2017).
 
 
@@ -79,6 +83,7 @@ Pesquisadores do Rio de Janeiro (Latawiec, 2016) avaliaram o plano de restauraç
 A curva ambiental de Kuznets é usada por economistas para modelagem de emissões de poluentes e renda per capta. Nos estágios iniciais do crescimento econômico, impactos humanos aumentam, incluindo emissões de poluentes, mas depois de certos níveis de desenvolvimento, a tendência se reverte (figura 3) (Stern, 2004).
 
 
+[[figura]]
 Figura 3. Curva ambiental de Kuznets para emissões de dióxido de enxofre. Nota-se que o impacto ambiental ou emissões per capta é uma curva em forma de U invertido como uma função do PIB per capta (Stern, 2004).
 
 
@@ -135,6 +140,7 @@ Análises das listas de extinção mostraram nuances importantes para correta in
 Esforços de conservação ajudam a mitigar e até mesmo reverter extinções (Pereira, 2012). Contanto que não sejam espécies insulares ou que habitem lugares restritos, e que não sejam caçadas até a morte por espécies predadoras invasoras, como o homem, a redução de habitat por si não é uma sentença de extinção.
 
 
+[[figura]]
 Figura 4. Desde seu início, a vida na Terra, segue uma curva exponencial representativa do crescente número de espécies na Terra até agora, sem levar em consideração as bem conhecidas extinções em massa (Maccone, 2013).
 
 
@@ -146,35 +152,66 @@ Por fim, a geração de biodiversidade obedece à segunda lei da termodinâmica 
 ## REFERÊNCIAS BIBLIOGRÁFICAS
 
 BARNAUD, C. et al. Is forest regeneration good for biodiversity? Exploring the social dimensions of an apparently ecological debate. Environmental Science & Policy, v. 120, p. 63–72, jun. 2021.
+
 BASELGA, A.; BONTHOUX, S.; BALENT, G. Temporal Beta Diversity of Bird Assemblages in Agricultural Landscapes: Land Cover Change vs. Stochastic Processes. PLOS ONE, v. 10, n. 5, p. e0127913, 26 maio 2015.
+
 BENTON, M. J.; EMERSON, B. C. HOW DID LIFE BECOME SO DIVERSE? THE DYNAMICS OF DIVERSIFICATION ACCORDING TO THE FOSSIL RECORD AND MOLECULAR PHYLOGENETICS. Palaeontology, v. 50, n. 1, p. 23–40, jan. 2007.
+
 BLOWES, S. A. et al. The geography of biodiversity change in marine and terrestrial assemblages. Science, v. 366, n. 6463, p. 339–345, 18 out. 2019. 
+
 CASANOVA, E. L.; KONKEL, M. K. The Developmental Gene Hypothesis for Punctuated Equilibrium: Combined Roles of Developmental Regulatory Genes and Transposable Elements. BioEssays, v. 42, n. 2, p. 1900173, fev. 2020.
+
 CEBALLOS, G. et al. Global Mammal Conservation: What Must We Manage? Science, v. 309, n. 5734, p. 603–607, 22 jul. 2005.
+
 CHASE, J. M. et al. Species richness change across spatial scales. Oikos, v. 128, n. 8, p. 1079–1091, ago. 2019. 
+
 CLOSE, R. A. et al. Diversity dynamics of Phanerozoic terrestrial tetrapods at the local-community scale. Nature Ecology & Evolution, v. 3, n. 4, p. 590–597, abr. 2019.
+
 DASKALOVA, G. N. et al. Landscape-scale forest loss as a catalyst of population and biodiversity change. p. 8, 2020.
+
 ESCARGUEL, G. et al. Biodiversity is not (and never has been) a bed of roses! Comptes Rendus Biologies, v. 334, n. 5–6, p. 351–359, maio 2011. 
+
 FISHER, D. O.; BLOMBERG, S. P. Correlates of rediscovery and the detectability of extinction in mammals. Proceedings of the Royal Society B: Biological Sciences, v. 278, n. 1708, p. 1090–1097, 7 abr. 2011.
+
 FLEGR, J. Evoluční Biologie, 2. vydání (Evolutionary Biology, 2nd edition), J. Flegr, Academia Prague, 2009. Disponível em: <https://www.frozenevolution.com/xxii543-after-space-order-ten-million-years-original-biodiversity-restored-communities-result-faster>
+
 GINGERICH, P. D. Evolutionary Patterns in Early Cenozoic Mammals. Annual Review of Earth and Planetary Sciences, v. 8, n. 1, p. 407–424, maio 1980.
+
 GINGERICH, P. D. Paleontology and Phylogeny: Patterns of Evolution at the Species Level in Early Tertiary Mamals. American Journal of Science, v. 276, p. 1-28, jan. 1976.
+
 HENDRICH, L.; MANUEL, M.; BALKE, M. The return of the Duke—locality data for Megadytes ducalis Sharp, 1882, the world’s largest diving beetle, with notes on related species (Coleoptera: Dytiscidae). Zootaxa, v. 4586, n. 3, p. 517, 18 abr. 2019.
+
 KIRCHNER, J. W.; WEIL, A. Delayed biological recovery from extinctions throughout the fossil record. Nature, v. 404, n. 6774, p. 177–180, mar. 2000.
+
 LATAWIEC, A. E. et al. Natural regeneration and biodiversity: a global meta-analysis and implications for spatial planning. Biotropica, v. 48, n. 6, p. 844–855, nov. 2016.
+
 LEUNG, B. et al. Clustered versus catastrophic global vertebrate declines. Nature, v. 588, n. 7837, p. 267–271, 10 dez. 2020.
+
 LOEHLE, C.; ESCHENBACH, W. Historical bird and terrestrial mammal extinction rates and causes: Bird and mammal extinction rates and causes. Diversity and Distributions, v. 18, n. 1, p. 84–91, jan. 2012.
+
 MACARTHUR, R. H.; WILSON, E. O. The Theory of Island Biogeography. Princeton University Press, p. 1-203. 1967.
+
 MACCONE, C. SETI, Evolution and Human History Merged into a Mathematical Model. International Journal of Astrobiology, v. 12, n. 3, p. 218–245, jul. 2013. 
+
 MORA, C. et al. How Many Species Are There on Earth and in the Ocean? PLoS Biology, v. 9, n. 8, p. e1001127, 23 ago. 2011.
+
 PEREIRA, H. M.; NAVARRO, L. M.; MARTINS, I. S. Global Biodiversity Change: The Bad, the Good, and the Unknown. Annual Review of Environment and Resources, v. 37, n. 1, p. 25–50, 21 nov. 2012.
+
 PIMM, S. L. et al. The biodiversity of species and their rates of extinction, distribution, and protection. Science, v. 344, n. 6187, p. 1246752, 30 maio 2014.
+
 SERVAIS, T.; CASCALES-MIÑANA, B.; HARPER, D. A. T. The Great Ordovician Biodiversification Event (GOBE) is Not a Single Event. Paleontological Research, v. 25, n. 4, 1 out. 2021.
+
 SKENE, K. Life’s a Gas: A Thermodynamic Theory of Biological Evolution. Entropy, v. 17, n. 12, p. 5522–5548, 31 jul. 2015.
+
 STERN, D. I. The Rise and Fall of the Environmental Kuznets Curve. World Development, v. 32, n. 8, p. 1419–1439, ago. 2004.
+
 VELLEND, M. et al. Global meta-analysis reveals no net change in local-scale plant biodiversity over time. Proceedings of the National Academy of Sciences, v. 110, n. 48, p. 19456–19459, 26 nov. 2013.
+
 VELLEND, M. et al. Plant Biodiversity Change Across Scales During the Anthropocene. Annual Review of Plant Biology, v. 68, n. 1, p. 563–586, 28 abr. 2017.
+
 WEBBY, B. et al. (EDS.). The Great Ordovician Biodiversification Event Columbia University Press, 2004.
+
 WRIGHTSTONE, G. Mass extinction lie exposed: life is thriving. Inconvenient Blog, 13 mai. 2019a. Disponível em: <https://inconvenientfacts.xyz/blog/f/mass-extinction-lie-exposed-life-is-thriving>. Acesso em: 13 dez. 2021.
+
 WRIGHTSTONE, G. Exposing the Mass Extinction Lie. Whatts Up With That?, 13 mai. 2019b. Disponível em: <https://wattsupwiththat.com/2019/05/27/gregory-wrightstone-exposing-the-mass-extinction-lie/>. Acesso em: 13 dez. 2021.
 
