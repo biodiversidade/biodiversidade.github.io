@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<!--
+
+	  Hey!
+	  This web page is actually a data file that is meant to be
+	   read by RSS reader programs.
+	  See https://biodiversidade.github.io/ for
+	   the human-readable sitemap page.
+
+	-->
+  <url>
+    <loc>https://biodiversidade.github.io/sitemap.xml</loc>
+    <lastmod>2021-12-13T12:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://biodiversidade.github.io/about.html</loc>
+    <lastmod>2021-12-13T12:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://biodiversidade.github.io/cv.html</loc>
+    <lastmod>2021-12-13T12:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://biodiversidade.github.io/</loc>
+    <lastmod>2021-12-13T12:00:00+00:00</lastmod>
+  </url>
+
+</urlset>
+<!-- generated-on="2021-12-13T20:20:00+00:00" -->
+<!-- items="3" -->
