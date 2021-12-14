@@ -1,0 +1,786 @@
+Acontias rieppeli	worsened	N
+Acontias rieppeli	improved	N
+--- 2
+Acrocephalus luscinius	worsened	G
+Acrocephalus luscinius	worsened	N
+--- 2
+Acropogon bullatus	improved	N
+Acropogon bullatus	worsened	N
+--- 2
+Actophilornis albinucha	worsened	N
+Actophilornis albinucha	worsened	N
+--- 2
+Adenomus kandianus	improved	N
+Adenomus kandianus	improved	N
+--- 2
+Africallagma cuneistigma	improved	N
+Africallagma cuneistigma	worsened	N
+--- 2
+Afrocarpus usambarensis	worsened	N
+Afrocarpus usambarensis	worsened	N
+--- 2
+Allocebus trichotis	worsened	N
+Allocebus trichotis	worsened	G
+--- 2
+Allocnemis mitwabae	worsened	N
+Allocnemis mitwabae	worsened	N
+--- 2
+Aloeides egerides	improved	N
+Aloeides egerides	worsened	N
+--- 2
+Alophoixus bres	worsened	G
+Alophoixus bres	worsened	G
+--- 2
+Alosa alabamae	worsened	N
+Alosa alabamae	improved	N
+--- 2
+Amazilia castaneiventris	improved	N
+Amazilia castaneiventris	improved	N
+--- 2
+Amazilia luciae	improved	N
+Amazilia luciae	improved	N
+--- 2
+Amazona auropalliata	worsened	N
+Amazona auropalliata	worsened	N
+--- 2
+Amietia tenuoplicata	worsened	N
+Amietia tenuoplicata	improved	N
+--- 2
+Amytornis dorotheae	worsened	N
+Amytornis dorotheae	improved	N
+Amytornis dorotheae	worsened	G
+--- 3
+Anas nesiotis	improved	G
+Anas nesiotis	improved	G
+--- 2
+Aprasia aurita	worsened	G
+Aprasia aurita	improved	N
+--- 2
+Arthroleptella subvoce	worsened	N
+Arthroleptella subvoce	worsened	N
+--- 2
+Arthroleptis krokosua	improved	N
+Arthroleptis krokosua	worsened	G
+--- 2
+Aspatharia subreniformis	improved	N
+Aspatharia subreniformis	worsened	N
+--- 2
+Atelopus muisca	improved	N
+Atelopus muisca	worsened	N
+--- 2
+Avahi unicolor	worsened	N
+Avahi unicolor	worsened	N
+--- 2
+Azuragrion buchholzi	worsened	N
+Azuragrion buchholzi	improved	N
+--- 2
+Balearica regulorum	worsened	G
+Balearica regulorum	worsened	N
+--- 2
+Baphia speciosa	improved	N
+Baphia speciosa	worsened	N
+--- 2
+Bellamya ecclesi	same	N
+Bellamya ecclesi	worsened	N
+--- 2
+Biomphalaria angulosa	improved	N
+Biomphalaria angulosa	same	N
+--- 2
+Biomphalaria salinarum	improved	N
+Biomphalaria salinarum	same	N
+--- 2
+Biomphalaria tchadiensis	worsened	G
+Biomphalaria tchadiensis	same	G
+--- 2
+Bitis inornata	worsened	N
+Bitis inornata	improved	N
+--- 2
+Bolitoglossa hiemalis	improved	N
+Bolitoglossa hiemalis	worsened	N
+--- 2
+Bolitoglossa hypacra	improved	N
+Bolitoglossa hypacra	worsened	G
+--- 2
+Bolitoglossa zapoteca	worsened	N
+Bolitoglossa zapoteca	improved	N
+--- 2
+Boophis axelmeyeri	worsened	N
+Boophis axelmeyeri	improved	N
+--- 2
+Bradypodion taeniabronchum	improved	N
+Bradypodion taeniabronchum	improved	N
+--- 2
+Bradypodion thamnobates	worsened	N
+Bradypodion thamnobates	worsened	N
+--- 2
+Branta ruficollis	worsened	G
+Branta ruficollis	improved	N
+--- 2
+Breviceps bagginsi	worsened	N
+Breviceps bagginsi	improved	N
+--- 2
+Breviceps sylvestris	worsened	N
+Breviceps sylvestris	improved	N
+--- 2
+Bulinus browni	improved	N
+Bulinus browni	worsened	N
+--- 2
+Bulinus camerunensis	worsened	N
+Bulinus camerunensis	improved	N
+--- 2
+Cacicus koepckeae	worsened	G
+Cacicus koepckeae	improved	N
+--- 2
+Calidris tenuirostris	worsened	G
+Calidris tenuirostris	worsened	G
+--- 2
+Capito quinticolor	worsened	N
+Capito quinticolor	improved	N
+--- 2
+Carcharhinus falciformis	worsened	N
+Carcharhinus falciformis	worsened	N
+--- 2
+Carcharhinus obscurus	worsened	N
+Carcharhinus obscurus	worsened	N
+--- 2
+Carcharhinus plumbeus	worsened	N
+Carcharhinus plumbeus	worsened	N
+--- 2
+Catostomus bernardini	improved	N
+Catostomus bernardini	worsened	N
+--- 2
+Cebuella pygmaea	worsened	G
+Cebuella pygmaea	worsened	N
+--- 2
+Celeus obrieni	improved	N
+Celeus obrieni	improved	N
+--- 2
+Cercocebus atys	improved	N
+Cercocebus atys	worsened	G
+--- 2
+Ceriagrion georgifreyi	worsened	N
+Ceriagrion georgifreyi	worsened	N
+--- 2
+Chaetura pelagica	worsened	G
+Chaetura pelagica	worsened	G
+--- 2
+Charadrius sanctaehelenae	worsened	G
+Charadrius sanctaehelenae	improved	G
+--- 2
+Cheirogaleus major	improved	N
+Cheirogaleus major	worsened	N
+--- 2
+Chiloglanis bifurcus	improved	N
+Chiloglanis bifurcus	worsened	G
+--- 2
+Chimaera obscura	improved	N
+Chimaera obscura	worsened	N
+--- 2
+Chlorocypha dahli	worsened	N
+Chlorocypha dahli	improved	N
+--- 2
+Chlorocypha schmidti	improved	N
+Chlorocypha schmidti	worsened	N
+--- 2
+Chlorolestes elegans	worsened	G
+Chlorolestes elegans	improved	N
+--- 2
+Chloropsis cochinchinensis	worsened	N
+Chloropsis cochinchinensis	worsened	G
+--- 2
+Chloropsis media	worsened	N
+Chloropsis media	worsened	G
+--- 2
+Chloropsis sonnerati	worsened	G
+Chloropsis sonnerati	worsened	N
+--- 2
+Cirrhigaleus barbifer	improved	N
+Cirrhigaleus barbifer	worsened	N
+--- 2
+Coeligena orina	worsened	N
+Coeligena orina	improved	N
+--- 2
+Cranioleuca marcapatae	worsened	G
+Cranioleuca marcapatae	improved	N
+--- 2
+Craugastor gulosus	improved	N
+Craugastor gulosus	same	N
+--- 2
+Craugastor obesus	improved	N
+Craugastor obesus	worsened	N
+--- 2
+Cromileptes altivelis	worsened	N
+Cromileptes altivelis	improved	N
+--- 2
+Cryptactites peringueyi	worsened	N
+Cryptactites peringueyi	improved	G
+--- 2
+Cryptoleucopteryx plumbea	worsened	N
+Cryptoleucopteryx plumbea	improved	N
+--- 2
+Crypturellus atrocapillus	worsened	G
+Crypturellus atrocapillus	improved	N
+--- 2
+Crypturellus duidae	worsened	G
+Crypturellus duidae	improved	N
+--- 2
+Cyprinodon labiosus	worsened	N
+Cyprinodon labiosus	improved	N
+--- 2
+Dalatias licha	worsened	N
+Dalatias licha	worsened	N
+--- 2
+Dalbergia mollis	improved	N
+Dalbergia mollis	worsened	G
+--- 2
+Dalbergia peltieri	improved	N
+Dalbergia peltieri	worsened	G
+--- 2
+Deconychura longicauda	worsened	G
+Deconychura longicauda	improved	N
+--- 2
+Diplodiscus paniculatus	improved	N
+Diplodiscus paniculatus	worsened	N
+--- 2
+Discherodontus halei	improved	N
+Discherodontus halei	worsened	N
+--- 2
+Duellmanohyla uranochroa	improved	G
+Duellmanohyla uranochroa	improved	G
+--- 2
+Dysithamnus leucostictus	worsened	G
+Dysithamnus leucostictus	improved	N
+--- 2
+Ecchlorolestes nylephtha	worsened	N
+Ecchlorolestes nylephtha	same	N
+--- 2
+Echiopsis curta	improved	N
+Echiopsis curta	improved	N
+--- 2
+Eleutherodactylus alticola	worsened	N
+Eleutherodactylus alticola	improved	N
+--- 2
+Eleutherodactylus cundalli	worsened	N
+Eleutherodactylus cundalli	improved	N
+--- 2
+Emberiza aureola	worsened	G
+Emberiza aureola	worsened	G
+--- 2
+Emblemariopsis tayrona	improved	N
+Emblemariopsis tayrona	worsened	N
+--- 2
+Enallagma recurvatum	improved	N
+Enallagma recurvatum	worsened	N
+Enallagma recurvatum	improved	N
+--- 3
+Eulemur albifrons	worsened	G
+Eulemur albifrons	improved	N
+--- 2
+Eupleres goudotii	worsened	N
+Eupleres goudotii	improved	G
+--- 2
+Excidobates captivus	worsened	N
+Excidobates captivus	worsened	N
+--- 2
+Falco cherrug	improved	N
+Falco cherrug	worsened	N
+--- 2
+Fundulus waccamensis	worsened	G
+Fundulus waccamensis	improved	N
+--- 2
+Garrulax rufifrons	worsened	G
+Garrulax rufifrons	worsened	G
+--- 2
+Geothlypis beldingi	improved	N
+Geothlypis beldingi	improved	N
+--- 2
+Glaucostegus halavi	worsened	N
+Glaucostegus halavi	worsened	N
+--- 2
+Goggia gemmula	worsened	N
+Goggia gemmula	improved	N
+--- 2
+Goniurosaurus kuroiwae	worsened	N
+Goniurosaurus kuroiwae	improved	N
+--- 2
+Grallaria carrikeri	worsened	N
+Grallaria carrikeri	improved	N
+--- 2
+Graminicola bengalensis	improved	N
+Graminicola bengalensis	worsened	N
+--- 2
+Gyps africanus	worsened	N
+Gyps africanus	worsened	G
+Gyps africanus	worsened	G
+--- 3
+Gyps rueppellii	worsened	N
+Gyps rueppellii	worsened	G
+--- 2
+Hemicycla modesta	worsened	N
+Hemicycla modesta	worsened	N
+--- 2
+Hemitriccus cinnamomeipectus	worsened	N
+Hemitriccus cinnamomeipectus	improved	N
+--- 2
+Hemitriccus kaempferi	improved	N
+Hemitriccus kaempferi	improved	N
+--- 2
+Heteromirafra sidamoensis	worsened	N
+Heteromirafra sidamoensis	worsened	G
+--- 2
+Heteropodagrion sanguinipes	worsened	N
+Heteropodagrion sanguinipes	improved	N
+--- 2
+Hibiscadelphus woodii	worsened	G
+Hibiscadelphus woodii	improved	N
+--- 2
+Homopholis mulleri	worsened	G
+Homopholis mulleri	improved	N
+--- 2
+Hylocichla mustelina	worsened	N
+Hylocichla mustelina	improved	G
+--- 2
+Hyloscirtus colymba	improved	N
+Hyloscirtus colymba	worsened	G
+--- 2
+Hynobius stejnegeri	worsened	N
+Hynobius stejnegeri	improved	N
+--- 2
+Hypocnemis cantator	worsened	G
+Hypocnemis cantator	improved	N
+--- 2
+Hystricella echinulata	improved	N
+Hystricella echinulata	worsened	G
+--- 2
+Iguana delicatissima	worsened	G
+Iguana delicatissima	worsened	G
+--- 2
+Ilyodon whitei	improved	N
+Ilyodon whitei	improved	N
+--- 2
+Ischnura gemina	improved	N
+Ischnura gemina	worsened	G
+--- 2
+Isurus oxyrinchus	worsened	N
+Isurus oxyrinchus	worsened	N
+--- 2
+Labeo seeberi	improved	N
+Labeo seeberi	worsened	N
+Labeo seeberi	improved	N
+--- 3
+Lamprophis fiskii	improved	N
+Lamprophis fiskii	worsened	N
+--- 2
+Lanistes nasutus	improved	N
+Lanistes nasutus	worsened	N
+--- 2
+Larus audouinii	improved	G
+Larus audouinii	worsened	G
+--- 2
+Lepidoblepharis montecanoensis	improved	N
+Lepidoblepharis montecanoensis	worsened	N
+--- 2
+Lepilemur aeeclis	worsened	N
+Lepilemur aeeclis	worsened	N
+--- 2
+Lepilemur dorsalis	worsened	N
+Lepilemur dorsalis	worsened	N
+--- 2
+Lepilemur fleuretae	worsened	N
+Lepilemur fleuretae	improved	N
+--- 2
+Lepilemur grewcockorum	worsened	N
+Lepilemur grewcockorum	worsened	G
+--- 2
+Lepilemur mittermeieri	worsened	N
+Lepilemur mittermeieri	worsened	G
+--- 2
+Lepilemur mustelinus	worsened	N
+Lepilemur mustelinus	worsened	N
+--- 2
+Lepilemur petteri	worsened	N
+Lepilemur petteri	worsened	G
+--- 2
+Lepilemur ruficaudatus	worsened	N
+Lepilemur ruficaudatus	worsened	G
+--- 2
+Leptopelis uluguruensis	worsened	N
+Leptopelis uluguruensis	improved	N
+--- 2
+Lettowianthus stellatus	improved	N
+Lettowianthus stellatus	improved	N
+--- 2
+Ligumia recta	improved	N
+Ligumia recta	worsened	N
+--- 2
+Liolaemus hellmichi	worsened	N
+Liolaemus hellmichi	worsened	N
+--- 2
+Lithobates vibicarius	improved	G
+Lithobates vibicarius	worsened	N
+--- 2
+Macronectes giganteus	improved	N
+Macronectes giganteus	improved	N
+--- 2
+Magnolia dixonii	improved	N
+Magnolia dixonii	worsened	N
+--- 2
+Manis culionensis	worsened	N
+Manis culionensis	worsened	N
+--- 2
+Megascops barbarus	worsened	N
+Megascops barbarus	improved	N
+--- 2
+Melamprosops phaeosoma	improved	N
+Melamprosops phaeosoma	worsened	G
+--- 2
+Melanitta fusca	worsened	G
+Melanitta fusca	improved	G
+--- 2
+Metacnemis angusta	worsened	N
+Metacnemis angusta	same	N
+--- 2
+Microcebus danfossi	worsened	N
+Microcebus danfossi	improved	N
+--- 2
+Microcebus mamiratra	worsened	N
+Microcebus mamiratra	improved	N
+--- 2
+Micropotamogale lamottei	improved	N
+Micropotamogale lamottei	worsened	N
+--- 2
+Mirza zaza	worsened	N
+Mirza zaza	worsened	G
+Mirza zaza	improved	N
+--- 3
+Mobula tarapacana	worsened	N
+Mobula tarapacana	worsened	N
+--- 2
+Monopterus indicus	worsened	N
+Monopterus indicus	worsened	N
+--- 2
+Mustelus mustelus	worsened	N
+Mustelus mustelus	worsened	N
+--- 2
+Myiopagis olallai	worsened	N
+Myiopagis olallai	improved	N
+--- 2
+Myrmornis torquata	worsened	G
+Myrmornis torquata	improved	N
+--- 2
+Necrosyrtes monachus	worsened	N
+Necrosyrtes monachus	worsened	G
+--- 2
+Neochanna apoda	worsened	G
+Neochanna apoda	worsened	N
+--- 2
+Neophocaena asiaeorientalis	improved	N
+Neophocaena asiaeorientalis	worsened	G
+--- 2
+Neurogomphus dissimilis	improved	N
+Neurogomphus dissimilis	worsened	N
+--- 2
+Nothobranchius kirki	worsened	N
+Nothobranchius kirki	worsened	N
+--- 2
+Nothocercus nigrocapillus	worsened	G
+Nothocercus nigrocapillus	improved	N
+--- 2
+Numenius madagascariensis	worsened	G
+Numenius madagascariensis	worsened	G
+--- 2
+Ognorhynchus icterotis	improved	G
+Ognorhynchus icterotis	improved	G
+--- 2
+Oligosoma notosaurus	worsened	N
+Oligosoma notosaurus	improved	N
+--- 2
+Ompok fumidus	improved	N
+Ompok fumidus	worsened	N
+--- 2
+Oxyura maccoa	worsened	N
+Oxyura maccoa	worsened	G
+--- 2
+Paragomphus sinaiticus	improved	N
+Paragomphus sinaiticus	improved	N
+--- 2
+Phaner furcifer	worsened	G
+Phaner furcifer	worsened	N
+--- 2
+Phataginus tricuspis	worsened	N
+Phataginus tricuspis	worsened	N
+--- 2
+Phoboscincus bocourti	worsened	N
+Phoboscincus bocourti	worsened	N
+--- 2
+Phoebastria nigripes	improved	N
+Phoebastria nigripes	improved	N
+--- 2
+Picumnus minutissimus	worsened	G
+Picumnus minutissimus	improved	N
+--- 2
+Picus sharpei	worsened	N
+Picus sharpei	improved	N
+--- 2
+Pila occidentalis	improved	N
+Pila occidentalis	same	N
+--- 2
+Pinus dalatensis	improved	N
+Pinus dalatensis	worsened	N
+--- 2
+Pinus greggii	worsened	N
+Pinus greggii	worsened	N
+--- 2
+Pittosporum brevispinum	improved	N
+Pittosporum brevispinum	worsened	G
+--- 2
+Pittosporum gatopense	improved	N
+Pittosporum gatopense	worsened	N
+--- 2
+Podiceps gallardoi	worsened	G
+Podiceps gallardoi	worsened	G
+--- 2
+Podocarpus costaricensis	worsened	N
+Podocarpus costaricensis	worsened	N
+--- 2
+Podocarpus deflexus	worsened	N
+Podocarpus deflexus	improved	N
+--- 2
+Podocarpus dispermus	worsened	N
+Podocarpus dispermus	improved	N
+--- 2
+Podocarpus matudae	worsened	N
+Podocarpus matudae	worsened	N
+--- 2
+Polemaetus bellicosus	worsened	N
+Polemaetus bellicosus	worsened	G
+Polemaetus bellicosus	worsened	G
+--- 3
+Pristimantis charlottevillensis	improved	N
+Pristimantis charlottevillensis	worsened	N
+--- 2
+Pristimantis cruciocularis	worsened	N
+Pristimantis cruciocularis	improved	N
+--- 2
+Pristimantis lasalleorum	improved	N
+Pristimantis lasalleorum	worsened	N
+--- 2
+Pristimantis melanogaster	worsened	N
+Pristimantis melanogaster	improved	N
+--- 2
+Pristimantis pardalinus	worsened	N
+Pristimantis pardalinus	improved	N
+--- 2
+Pristimantis satagius	improved	N
+Pristimantis satagius	worsened	N
+--- 2
+Progomphus bellei	improved	N
+Progomphus bellei	improved	N
+--- 2
+Propithecus deckenii	worsened	G
+Propithecus deckenii	worsened	G
+--- 2
+Propithecus verreauxi	worsened	G
+Propithecus verreauxi	worsened	G
+--- 2
+Protemblemaria punctata	improved	N
+Protemblemaria punctata	worsened	N
+--- 2
+Prototroctes maraena	improved	G
+Prototroctes maraena	worsened	G
+--- 2
+Psarocolius cassini	worsened	N
+Psarocolius cassini	improved	N
+--- 2
+Pseudagrion symoensii	worsened	N
+Pseudagrion symoensii	worsened	N
+--- 2
+Pseudobarbus asper	worsened	N
+Pseudobarbus asper	improved	N
+--- 2
+Pseudoeurycea mystax	worsened	N
+Pseudoeurycea mystax	improved	N
+--- 2
+Pseudoeurycea orchileucos	worsened	N
+Pseudoeurycea orchileucos	improved	N
+--- 2
+Pseudomugil connieae	worsened	G
+Pseudomugil connieae	worsened	G
+--- 2
+Psittacula eques	improved	G
+Psittacula eques	improved	G
+--- 2
+Psittacus erithacus	worsened	N
+Psittacus erithacus	worsened	N
+Psittacus erithacus	worsened	N
+--- 3
+Pterocarpus santalinus	worsened	N
+Pterocarpus santalinus	improved	N
+--- 2
+Pterodroma axillaris	improved	G
+Pterodroma axillaris	improved	G
+--- 2
+Pteropus niger	improved	N
+Pteropus niger	worsened	G
+--- 2
+Ptilinopus huttoni	worsened	N
+Ptilinopus huttoni	worsened	N
+--- 2
+Ptychohyla hypomykter	improved	N
+Ptychohyla hypomykter	worsened	N
+--- 2
+Pycnonotus zeylanicus	worsened	G
+Pycnonotus zeylanicus	worsened	G
+--- 2
+Pygoscelis adeliae	worsened	N
+Pygoscelis adeliae	improved	G
+--- 2
+Pyrrhosoma elisabethae	worsened	N
+Pyrrhosoma elisabethae	improved	N
+--- 2
+Pyrrhula murina	improved	N
+Pyrrhula murina	improved	G
+--- 2
+Pyrrhura rupicola	worsened	G
+Pyrrhura rupicola	improved	N
+--- 2
+Quercus costaricensis	improved	N
+Quercus costaricensis	worsened	N
+--- 2
+Radula jonesii	improved	N
+Radula jonesii	worsened	N
+--- 2
+Ranitomeya fantastica	worsened	N
+Ranitomeya fantastica	worsened	N
+--- 2
+Ravenea rivularis	worsened	N
+Ravenea rivularis	improved	N
+--- 2
+Ristella rurkii	worsened	N
+Ristella rurkii	improved	N
+--- 2
+Sachatamia punctulata	worsened	N
+Sachatamia punctulata	improved	N
+--- 2
+Sagittarius serpentarius	worsened	N
+Sagittarius serpentarius	worsened	G
+--- 2
+Samoana diaphana	improved	N
+Samoana diaphana	worsened	N
+--- 2
+Scaphiophryne menabensis	worsened	N
+Scaphiophryne menabensis	improved	N
+--- 2
+Scarus guacamaia	improved	N
+Scarus guacamaia	worsened	N
+--- 2
+Sculptiferussacia clausiliaeformis	worsened	G
+Sculptiferussacia clausiliaeformis	improved	N
+--- 2
+Semioptera wallacii	worsened	N
+Semioptera wallacii	improved	N
+--- 2
+Smutsia gigantea	worsened	N
+Smutsia gigantea	worsened	N
+--- 2
+Snowornis subalaris	worsened	G
+Snowornis subalaris	improved	N
+--- 2
+Somatochlora hineana	improved	N
+Somatochlora hineana	improved	N
+--- 2
+Spelaeornis kinneari	worsened	N
+Spelaeornis kinneari	improved	N
+Spelaeornis kinneari	worsened	N
+--- 3
+Sphaerium bequaerti	worsened	N
+Sphaerium bequaerti	improved	N
+--- 2
+Sphingonotus almeriense	worsened	N
+Sphingonotus almeriense	worsened	N
+--- 2
+Sphingonotus guanchus	improved	N
+Sphingonotus guanchus	improved	N
+--- 2
+Sphingonotus picteti	worsened	N
+Sphingonotus picteti	worsened	N
+--- 2
+Sphingonotus rugosus	worsened	N
+Sphingonotus rugosus	worsened	N
+--- 2
+Sphyrna lewini	worsened	N
+Sphyrna lewini	worsened	N
+--- 2
+Sphyrna mokarran	worsened	N
+Sphyrna mokarran	worsened	N
+--- 2
+Spizaetus isidori	worsened	N
+Spizaetus isidori	worsened	N
+--- 2
+Stefania ackawaio	improved	N
+Stefania ackawaio	worsened	N
+--- 2
+Stefania ayangannae	improved	N
+Stefania ayangannae	worsened	N
+--- 2
+Stefania coxi	improved	N
+Stefania coxi	worsened	N
+--- 2
+Sterna aurantia	worsened	N
+Sterna aurantia	worsened	G
+--- 2
+Sympetrum dilatatum	improved	N
+Sympetrum dilatatum	worsened	N
+--- 2
+Tanysiptera ellioti	worsened	N
+Tanysiptera ellioti	improved	N
+--- 2
+Telmatobius atahualpai	worsened	N
+Telmatobius atahualpai	worsened	N
+--- 2
+Terathopius ecaudatus	worsened	N
+Terathopius ecaudatus	worsened	G
+--- 2
+Tetradactylus breyeri	improved	N
+Tetradactylus breyeri	worsened	N
+--- 2
+Thunnus alalunga	improved	G
+Thunnus alalunga	worsened	N
+--- 2
+Thunnus albacares	improved	G
+Thunnus albacares	worsened	G
+--- 2
+Thunnus orientalis	improved	N
+Thunnus orientalis	worsened	N
+--- 2
+Thunnus thynnus	improved	G
+Thunnus thynnus	worsened	N
+--- 2
+Treron sanctithomae	worsened	N
+Treron sanctithomae	worsened	N
+--- 2
+Trichoglossus forsteni	worsened	N
+Trichoglossus forsteni	worsened	G
+--- 2
+Trigonoceps occipitalis	worsened	N
+Trigonoceps occipitalis	worsened	G
+--- 2
+Trochulus caelatus	worsened	N
+Trochulus caelatus	worsened	N
+--- 2
+Typhlosaurus lomiae	improved	N
+Typhlosaurus lomiae	improved	N
+--- 2
+Umma purpurea	improved	N
+Umma purpurea	worsened	N
+--- 2
+Urocitellus brunneus	improved	N
+Urocitellus brunneus	worsened	N
+Urocitellus brunneus	improved	N
+--- 3
+Westralunio carteri	improved	N
+Westralunio carteri	worsened	N
+--- 2
+Zosterops flavus	worsened	G
+Zosterops flavus	worsened	N
+--- 2

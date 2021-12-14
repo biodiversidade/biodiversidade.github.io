@@ -1,0 +1,1671 @@
+A percepção do que há com biodiversidade hoje em dia eh...
+
+---
+
+A vida deve ter se originado em vários pontos distintos/isolados mais ou menos simultaneamente, e essas populações primordiais de moléculas replicantes construídas por catálises metálicas,
+[[
+Did life originate from a global chemical reactor?
+E. E. Stüeken, R. E. Anderson, J. S. Bowman, W. J. Brazelton, J. Colangelo-Lillis, A. D. Goldman, S. M. Som, J. A. Baross
+First published: 18 January 2013
+
+
+The Origin of Life in Alkaline Hydrothermal Vents
+Victor Sojo , Barry Herschy , Alexandra Whicher, Eloi Camprubí, and Nick Lane
+Published Online:16 Feb 2016https://doi.org/10.1089/ast.2015.1406
+
+
+Alondo & Ricardo, 2009 (good)
+
+
+Possible origin of life between mica sheets
+Hasman, 2010
+
+]]
+quando tiverem contato, foram homogenizadas e somente as melhores puderam dominar o ambiente que repartiam.
+
+Desde que a vida se iniciou no planeta Terra, discutivelmente há mais de 3,8 bilhões de anos, processos de diversificação foram iniciados. A molécula (ou em outro nível, proto-organismo) replicante encontrou múltiplas paisagens (macroecologia?). A pressão da zona ecológica colonizada possibilitou que o autoreplicador seguisse em direção à estabilização (uma conformação) de seu material genético (ou de informação) diferente da anterior. Uma vez estabelecida no ambiente diferente e isolado da informação genética do grupo antecessor, por diferença no espaço físico ou químico, terá total possibilidade de aperfeiçoar-se o mais rapidamente e tendendo ao ótimo metabolismo permitido pelas diversas pressões ambientais. A sequência temporal também irá determinar quais valores ótimos os organismos deverão conformar-se ao longo de sua existência (macroevolução?), determinando uma área de pressão ambiental ao longo das gerações biológicas.
+
+Existe uma zona cinzenta que intermedeia a troca de informação genética entre os organismos, física, química ou temporalmente definida, em que janela organismos relacionados podem trocar uma parte de informação genética. Os primeiros genes fixados antes de uma separação limpa entre espécies serão os mais importantes definidores das características de incompatibilidade entre seus genomas subsequentemente.
+(HOHENEGGER, 2012; roux 2016)
+
+
+
+Uma única linhagem de organismo muda ao longo do tempo porém permanece considerada mesma e única espécia por nós humanos. A reversão completa de traços genéticos também pode ser mais dispendiosa quimicamente do que manter certos artefatos e reverte somente o estritamente necessário para não afetar a estabilização do genoma. Por conta disso, inúmeras pequenas alterações podem se acumular ao longo do tempo, levando o material genético a cada vez maior complexidade para manter-se somente estável.
+
+Mesmo que um ambiente permaneça inalterado e com pressões constantes por um longo período de tempo, ainda haverá a possibilidade de mudança genética, por exemplo frequência alélica, ao longo do tempo por "deriva estocástica" (mudança ao acaso nas frequências de porções genéticas bem definidas,(KIMURA 1955, Ohta 2013).
+
+Na realidade, com o tempo de observação maior da linha evolutiva das espécies, menos mudanças poderão ser obervadas devido ao fato de que mutações muito rápidas geradas por pressões ambientais variantes não são possíveis de serem percebidas com baixa resolução temporal, como nos estudos de evolução por peças fossilíferas. Esse é um mecanismo contra-intuitivo da evolução.
+
+Alterações ambientais promovem a "Corrida da Rainha Vermelha" em diversos níveis de organização, sendo que os organismos sempre devem mudar mais mesmo que para voltar a acompanhar uma alteração que volta a um estado anterior (não novo, testado, experimentado).
+
+
+
+A evolução opera em vários níveis. Lamarck, Darwin e Wallace são gradualistas em suas teorias de evolução. O geólogo Niels Eldredge, com suas observações do registro fossilífero, verificou que há longos e tediosos períodos em que não há mudança na forma morfológica das espécies. A esse periodo chamou de "estase" e verificou que os mesmos fatores ambientais dirigindo extinções também são responsáveis por padrões de especiações. Níveis intermediários de extinção e rotatividade compõe a força de geração de espécies e com isso formulou sua teoria do "equilíbrio pontuado", quando novos padrões de especiação furam períodos longos e monótonos de estase biológica.
+
+Ainda segundo Niels, a pressão ambiental deve atingir toda a espécia geograficamente para que mudanças morfológicas persistam, e só devem ocorrer depois da evolução genética e quando comunidades reprodutoras isoladas não puderem mais trocar (informação) com outras espécies relacionadas (ou como ele chamava, sub-espécies).
+
+Evolução genética sempre ocorre dentre espécies e comunidades e de geração em geração familial(?) mas pode ser tão abrupta que parece saltar nos registros fossilíferos.
+
+
+O que escapa ao escrutínio de Niels, que não é geneticista de formação e trabalha, principalmente, com vestígios de vida, é a pujança de modificações genéticas impermanentes (não-(e|i)manentes)? e minúsculas que tentam demonstrar-se em escalas menores do que centenas e dezenas de anos aos estímulos da paisagem variante. Ainda no domínio genético, os transposons são a chave da abóbora para a questão de uma diversificação acentuada. Nenhuma modificação rara tem a chance de permanecer nos registros fósseis, somente características comuns e abundantes, que precisam de condições específicas para se fixarem (discutidos em outros parágrafos deste texto).
+
+Nas anotações de Darwin quando passou pela América Latina, Brasil e Argentina deixa registrada uma linha de indagação que lhe ocorreu pelo motivo de não verificar alta diversidade de alguns gêneros na longa transecção que fez. Questionou se o espaço seria mais importante que o tempo na história da vida pois isso poderia explicar por que haveria tanta estabilidade nas espécies em um território continental completamente integrado como o nosso brasileiro, em contraste com os dados que ele havia coletado em ilhas e arquipélagos cujas espécies eram relacionadas entre sí porém determinadas.
+
+
+Outra indagação de Darwin e seus contemporâneos cientistas naturais, em outro momento histórico, se debruçava sobre o por que de algumas espécies conseguirem permanecer constantes oa longo do tempo(?). De uma perspectiva termodinâmica de sistemas complexos não fechados, a fase de um sistema genético sincroniza-se pelo acoplamento com mudanças ambientais pequenas, mas não poe ser relativamente tão casado com todas as variações ambientais do contrário estaria sempre em uma mudança e fase abrupta para estabilização dos sistema.
+[[os sistemas caminham para uma sincronização e conformação estáveis porém não podem ser completamente casados (acoplados) com as forças que o determina pois do contrário pulariam para uma terceira conformação de estabilidade diferente totalmente diferente.(?)]]
+Por exemplo, no nado sincronizado se os atletlas segurarem as mãos, o sistema tomará uma outra fase de estabilidade completamente diferente da anterior que não era tão acoplada.
+Mas quando so sistemas são percolados por uma pressão ambiental forte o suficiente deverão sofrer, também uma brusca mudança de fase.
+Boccaletti,2016 (???)
+
+
+
+A taxa de diversidade do planeta terra pode ser calculada pela diferença entre as taxas de especiação e extinção ao longo do espaço geográfico (macroecologia) ou ao longo do tempo (macroevolução). Desde aproximadamanete 1600 há bem registrado mudanças na composição de espécies de vários lugares no mundo, como por exemplo Inglaterra. Taxas de extinção desse período, erroneamente chamado de Antropoceno, podem ser computadas mais facilmente do que taxas de especiação.
+
+
+
+Porém, nem tudo é um mar de rosas para a biodiversidade. Em um mundo físico heterogêneo e em mutação, variações espaçotemporais na biodiversidade são a regra e não a exceção.
+
+Seria uma simplificação excessiva dizer que um evento dramático desencadeou(engatilhou) grandes pulsões de biodiversidade em todos os grupos fósseus em um nível global em um intervalo de tempo particular.
+Servais,2021
+
+
+
+
+
+
+
+================================================================!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+Um dos vertebrados que mais viveram, por exemplo, pode ser o Edmontosaurus regalis (incluindo antigas espécies identificadas como Anatosauros) que durou cerca de oito milhões de anos e extinguiu-se no evento terminal da extinção do Cretáceo.
+https://www.dinopit.com/edmontosaurus/
+https://www.thecanadianencyclopedia.ca/en/article/edmontosaurus
+https://www.fossilguy.com/gallery/vert/dinosaur/edmontosaurus/index.htm
+https://fossil.fandom.com/wiki/Edmontosaurus
+https://academic.oup.com/zoolinnean/article/159/2/503/2622982 --close
+https://www.thecanadianencyclopedia.ca/en/article/edmontosaurus
+https://academic.oup.com/zoolinnean/article/159/2/503/2622982
+
+
+Pimm(2014) faz um apanhado do número geral de espécies que há no planeta. Sem contar as acheas, bactérias, fungos e virus, estima-se que o número total de plantas terrestres deva ser maior que 450 mil. Para animais,  revisões recentes atestam a dificuldade da projeção de um número total. Por volta de (1,5-??Mora Check)1,9 milhões de espécies foram descritas, enquanto que a grande maioria ainda não foi. As estimativas de números de animais vão desde três a 11 milhões de espécies (por exemplo, Mora, 2011) totais no planeta Terra, sendo estimados entre cinco e seis milhões de espécies de insetos somente, enquanto outros autores questionam a possibilidade de uma estimativa plausível quando se considera as incertezas nos números de inseto e fungos. Espécies marítimas são estimadas entre 700 mil e 2,2 milhões de espécies, com somente aproximadamente 226 mil descritas.
+
+Ainda, há diversos problemas como por exemplo, que somente por volta de 38% dos nomes já descritos foram resolvidos (ou seja, definidos). Também, Alroy 2002 estima que de 21% a 31% dos nomes de especies do registro fossilífero atualmente aceitos são inválidos (por exemplo, sinônimos de outras espécies anteriormente descritas).
+
+
+
+Média de período de existência de espécies de invertebrados e vertebrados é de 1 a 10 milhões de anos, vide taxas de extinção seguindo PROTHERO (2014), Pimm (2014), Cardinale?check (2018), Close?check (2019)
+
+Problema do artigo de Pimm (2014) e De los (2014) sobre o tempo de vida de espécies é que há muitas inferências (poucas espécies foram descritas, portanto os números são subestimados, números podem ser maiores do que os estimados, etc..). Os autores presumem que "preocupações com relação a biodiversidade foram levantas por que a presente taxa de extinção é excepcionalmente alta" 9citam até Al Gore!), porém como veremos mais a frente neste artigo, as estimativas de extinções recentes e metodologias adotadas por entidades como a lista vermelha da IUCN, IPBES (Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services) e Living Planet Index da WWF são muito questionáveis.
+
+
+
+
+Analisaremos a seguir algumas taxas de extinção e especiação ao longo do Fanerozóico.
+
+
+[[tabela]]
+Tabela 1. Taxas estimadas de extinção e especiação de plantas no passado distante (fundo), passado recente (Antropoceno) e futura (projetada) (Vellend, 2017 - Table 1).
+Espécies por milhão de anos por ano ou, alternativamente, espécies por espécies por milhão de anos; por exemplo, uma especiação estimada em 1,0 S/MSY significa que a cada milhão de espécies, uma nova espécie vai surgir a cada ano, ou, equivalentemente, cada espécie tem a probabilidade de gerar uma espécie adicional a cada milhão de anos.
+[[ADICIONAR TAXAS DE EXTINÇÃO DE FUNDO CALCULADAS POR Loehle & Eschenbach, 2012]]
+
+
+
+[[tabela]]
+Tabela 2. Taxas de extinção calculadas por análise de grupos (cohort analysis) e pelas frações de espécies que são classificadas como criticamente em perigo de extinção. Espécies de aves consideradas "possivelmente extintas" foram contadas como extintas.
+Dados de "antes de 1900" se referem a dados obtidos de experimentos realizados no período comumente (mas erroneamente) chamado de Antropoceno (Pimm, 2014 - Table 1).
+
+
+
+[[tabela,??]]
+August 18, 2011
+Predicting Total Global Species Richness Using Rates of Species Description and Estimates of Taxonomic Effort
+MARK J. C OSTELLO
+New marine(????) species discovery rate, according to data available in the World Register of Marine Species
+
+
+[[
+Comentar alguma coisa de Maccone, 2013.
+]]
+
+
+[[figura]]
+Figura 1. Padrões de diversificação de animais marinhos com esqueletos bem formados, contados como: A, ordens; B, famílias; C, gêneros; e D, espécies. As contagens ordinal, familial e genérica (de gêneros?) são baseadas em dados empíricos, enquanto que a curva de espécies é baseada em contagens reais e em simulações, e a curva é plotada como porcentagens do total moderno, definido como 100 por cento (Benton & Emerson, 2007). 
+
+Mas desde seu início, a vida na Terra, segue uma curva exponencial representativa do crescente número de espécies na Terra até agora, sem levar em consideração as bem conhecidas extinções em massa.
+(Maccone, 2013)
+
+
+
+
+Transições espécie-para-espécie são difíceis de documentar. Para ficar demonstrado como uma espécie surgiu, gradualmente ou repentinamente, é necessário estratos excepcionalmente completos, com muitos animais mortos enterrados sob uma sedimentação rápida e constante, o que não é comum em ambientes terrestres. 
+Em estimativas aproximadas, para se documentar  uma dessas transições, os espécimens precisam estar separados por somente alguns milhares de anos, por exemplo entre cada 20.000 a 80.000 anos. Se se há somente um espécimen a cada centenas de milhares de anos, pode-se documentar a ordem da espécie, mas não sua transição. Se tem espécimens a cada milhão de anos, pode-se demonstrar a ordem do gênero, mas não quais espécies estiveram envolvidas. 
+(from Gingerich, 1976, 1980)
+[The Talk.Origins Archive], Transitional Vertebrate Fossils FAQ, Part 1A, Copyright (C) 1994-1997 by Kathleen Hunt, [Last Update: March 17, 1997], https://groups.google.com/g/hk.soc.religion.christianity/c/8QlAeWadkMk/m/QYXj79yl_tgJ
+
+
+
+Na história geológica, houve cinco grandes eventos de extinção, todos registrados no Fanerozóico, há XX milhões de anos.
+
+--great ordovician biodiversification event 2021
+Dois grandes eventos evolucionários da história da vida ocorreram na Terra no época do Paleozóico Recente. O primeiro foi a explosão Cambriana de animais marinhos esqueléticos há aproximadamente 540 milhões de anos. O segundo foi o Grande Evento de Biodiversificação do Ordoviciano.
+webby, 2004 (BOOK)
+[[
+close 2019 mostra o aumento das biodiversidades de clados em séries geológicas
+close 2020 fala de diversificações no fanerozóico
+]]
+
+
+
+
+
+Após de um espaço da ordem de dez milhões de anos, o nível de biodiversidade original é restaurado nas comunidades como resultado de uma maior taxa de especiação. A taxa de especiação aparentemente culmina aproximadamente depois de 10 milhões de anos depois do final de uma extinção em massa ( Evoluční biologie, 2. vydání (Evolutionary biology, 2nd edition), J. Flegr, Academia Prague 2009.
+<https://www.frozenevolution.com/xxii543-after-space-order-ten-million-years-original-biodiversity-restored-communities-result-faster>) e a duração desse período não parece estar correlacionado com o número de espécies (riqueza) afetadas pela extinção.
+[[Ou seja, se os catastrofistas acreditam que o destino da espécie humana é a própria extinção depois da extinção das espécies importantes para o ser humano, então dentro de um piscar de olhos em termos geológicos, a diversidade na Terra será restaurada, se os registros passados nos servem como representativo do futuro. Me parece que o problema não é tanto uma preocupação incondicional com a diversidade, mas sim de uma única espécie específica, ou seja, nós mesmos.]]
+É claro que durante todo o período Fanerozóico, o número de eventos de especiações foi quas eigual com os de extinções, com uma diferença de somente 0,1-1%, o que causou, portanto, um aumento vagaroso na biodiversidade de organismos vivendo simultaneamente através do tempo.
+<https://www.frozenevolution.com/xxii543-after-space-order-ten-million-years-original-biodiversity-restored-communities-result-faster>
+
+
+
+Em 2018, saíram várias reportagens alertando sobre os terríveis números que o índice de populações (abundância) do planeta vivo da WWF (Living Planet Index, LPI) estava apontando em sua última edição. Por exemplo, uma manchete no The Guardian que anunciava que "a humanidade dizimou 60% da população animal desde 1970" e que estamos em transe sonâmbula para a beira do precipício..
+<https://www.theguardian.com/environment/2018/oct/30/humanity-wiped-out-animals-since-1970-major-report-finds>
+Em uma análise que fiz na época para um vídeo de um canal que eu tinha no YouTube, pude verificar alguns pontos fracos. A pesquisa delimitava o planeta em cinco regiões: neártica (Canadá, Estados Unidos e Groelândia), neotropical (inclui América do Latina e do Sul), afrotropical (região ao sul do paralelo do equador), paleártico (Europa, Russia e parte da Asia) e indo-pacífica (Índia, parte da China, Filipinas e Australia).
+Em uma das análises apresentadas no relatório da WWF, podemos observar que a região com maior pegada ecológica de consumo é justamente a paleártica e o Brasil com pegada ecológica muito baixa. Interesante fato apresentado depois, em uma análise de composta do índice do planeta vivo por região, aponta que a região neártica está, dentro dos limites de confiança, praticamente restaurado ao mesmo índice de 1970, enquanto que a região neotropical como a pior contribuidora para o declínio do índice geral no período estudado. Para conciliarmos esses resultados, devemos nos lembrar da Teoria da Curva Ambiental de Kuznets, fenômeno o qual estudaremos um pouco mais a frente no texto.
+
+De fato, outros problemas com relação ao estudo de abundância de espécies da WWF são a desproporção entre estudos localizados no hemisfério norte, ainda que com muitas localizações geográficas faltantes, além da desproporcionalidade de estudos no hemisfério sul, em especial atenção no Brasil, que é acusado pela WWF de termos perdido 89% da abundância de espécies por aqui! Entretanto, as preocupações levantadas implica que o índice não é necessariamente um índicador global e equilibrado, sem imparcialidade ou de ótica larga.
+
+Ainda, na metodologia de coleta de dados para o LPI podemos encontrar que se utilizam de programas de pesquisa de monitoramento de longo prazo, assim como avaliações de monitoramento de larga escala, como o da North American Breeding Bird Survey *e* programas de ciência do cidadão. Este último tipo de coleta, feita por cidadãos amadores, é preocupante tanto na qualidade e uniformidade de coleta quanto no resultado da tentiva de identificação de espécies.
+
+
+:::
+Arrhenius em 1920 postulou a relação de espécies e área e a Lei da Potência, que o número de espécies aumenta exponencialmente com um aumento da área, como por exemplo pela ??quinta raiz da área?? (VER MELHOR ESSA REFERENCIA, EXPLICAR MELHOR TEORIA DE ARRHENIUS).
+Wilson e MacArthur formularam a teoria da biogeografiade ilhas em 1982. Wilson baseou suas alegações na relação entre espécie e área, relação matemática entre o tamanho de uma área e o número de espécies que pode-se encontrar, e geralmente, quanto maior a área mais espécies são econtradas lá. Por exemplo, encontra-se um número de espécies em uma cidade, outro número no estado em que está cidade está inserida e assim por diante e ainda mais na nação como um todo. Porém, a teoria colocou a relação entre espécie e área de ponta cabeça e foi proposto que se se reduzir o habitat, a relação espécies e área muda o que significa que um número de espécies deve diminuir a população ou algumas se extinguir. Apesar de plausível, tornou-se um artefato entre os biólogos modernos.
+Ainda Wilson disse que aves e grandes mamíferos estariam mais susceptíveis à extinção do que as outras.
+
+Há duas listas oficiais autoritárias disponíveis, como a red Lista da IUCN (International Union of Crazy Naturalists, ou alguma coisa assim) para avaliação de extinções. O outro grupo que estuda extinção CREO (Committe on Recently Extinct Organisms), do Museus de História Natural de Nova York.
+A metodologia do CREO é mais rígida, por exemplo, primeiro deve-se ser demonstrada que realmente há uma espécie envolvida. Para isso, é necessário que haja taxonomia, espécimens e DNA também. Algumas das restrições impedem que organismos avistados somente uma vez em uma única ocasião possam ser considerados uma espécie extintas.
+Quando a CREO reanalisou a Red List, concluiu-se resultados semelhantes, mas a lista da CREO descartam mais espécies da extinção do que a Red List pois têm regras e normas amis científicas e detalhadas.
+
+O pesquisador climático independente Willis Eschenbach decidiu verificar as duas listas e reavaliar as espécies de aves e animais. Ele notou que houveram múltiplas ondas de extinções, por exemplo uma em 1500, nas ilhas caribenhas depois que os europeus vieram ao novo mundo, outra em 1700 e depois em 1800 e começo de 1900, no grande período de colonização humana. Alguns fatos interessantes foram observados, por exemplo que o número total de extinções de aves e animais dos últimos 500 anos é de 190 (até 2015, data de sua palestra), sendo 129 aves e 61 mamíferos. Quando foi verificado espécie por espécie, muitas delas foram extintas que moravam em uma pequena ilha e então vieram espećies exóticas e os dizimaram, como os ratos, mangustos, a serpente arborícola marrom, gatos e cães.
+Para reavaliar o postulado de Wilson que era especificamente sobre extinções devidas a redução de floresta (redução de habitat), Eschenbach excluiu de sua análise todos as extinções de espécies que habitavam ilhas provenientes do contato dos europeus na exploração dos últimos 500 anos. Espécies introduzidas nos grupos de arquipélagos e na Austrália causaram verdadeiro estrago, então esses dados todos foram retiradas da análise, assim poderia focar na questão específica levantada por Wison que se refere a perda de habitat e não introdução de espécies.
+Para grande surpresa, houve somente nove extinções (seis aves e 3 mamíferos) em todos os continuentes do mundo como Africa, Europa, Asia, América do Norte e América do Sul, nos últioms 500 anos. A causa das ondas de extinções previamente observadas coincidem com períodos de colonização dos europeus.
+Assim, o postulado de Wilson de que haveria tido 27.000 extinções nesse período (que coincide com as estimativas do IPBES e Nações Unidas) e de que as aves e os animais seriam os mais afetados se mostrou extremamente exagerado. Se considerada correta, algumas estimativas baseadas na fórmula mágica de Wilson de espécie e área, deveríamos ter visto aproximadamente 1.000 extinções no último século ou dois séculos.  
+A primeira ordem de aves e animal que sabemos que foi extinta é de um atelope chamado "blue buck". A lista vermelha diz que a espécie foi caçada durante 1700 e exterminada em 1800. Não há menção de perda de habitat. Próximo na lista cronológica é o Labrador duck, que a lista vermelha diz que foi extinto devido à caça por tiro e armadilhas durante os invernos, assim como a coleta de ovos na área de reprodução dos animais foram fatores importantes. A "Algerian gazelle" é conhecida por somente um couro comprado em um mercado no norte da África em 1894 e um crânio de um indivíduo adulto e não se sabe por que foi extinto. O "Carolina parakeet", único parakkeet dos EUA, foi caçado por sua carne, por suas penas bonitas e por comerem abelhas. Assim, foi caçado por comida e para porteção das abelhas por apicultores. A Red List diz que desflorestação também foi um fator, mas já que desflorestação ocorreu em todos os lugares que houve contato do homem com a natureza, não há nenhuma espécie (ou poucas) que não deva ter sido afetada por isso.
+O "passenger-pigeon" dos EUA que voavam em bandos foram, na realidade, caçados por sua carne em uma escala nunca vista e levado a extinção.
+A única extinção por perda de habitat foi do "Slender-billed grackle" que viva nos pântamos de Larma, no México, quando os homens chegaram e denaram os pântanos, destruindo assim completamente seu habitat.
+Todos os outros animais foram extintos por uma razão em particular: sua caça ativa pelos homens. A perseguição sem controle de algumas espécies pelo ser humano é a verdadeira causa de suas extinções.
+Espécies que estão suejeitas a colonizar somente uma pequena área, realmente não estão destinadas a ter um ótimo futuro. este é o caso da grande maioria das espécies extintas da Red List.
+A conclusão que podemos chegar é de que quando espécies européias econtraram novos ambientes, espécies nativas morreram, sendo que a predação é a principal causa de extinções. Assim, 95% das extinções de mamíferos são de espécies insulares e da Austrália foram causadas por espécies alienígenas. A chegada dos europeus na Austrália, que estava isolada do continente por 40 milhões de anos anteriores, foi um evento único e não há mais um lugar no planeta que não tenha sido visitado por europeus nos últimos 40 milhões de anos, então pe provavél que a introdução de espécies exóticas nunca alcançará uma proporção tão grande como foi descrito.
+A próxima conclusão é que de nunca houve uma extinção de animal continental por redução de habitat, o única caso de ave extinta descrito acima foi por destruição completa de seu habitat.
+Loehle & Eschenbach, 2012
+The Myth of the Sixth Wave of Extinctions
+Willis Eschenbach, DDPmeetings, 2015.
+https://www.youtube.com/watch?v=CdmAGVD5wt4
+
+
+
+:::::::::::::::::::::::::::::::::
+O geologista veterano e autor do livro "Inconveniente Facts: The Science that Al Gore Doesn't Want You to Know", Gregory Wrightstone, em resposta à pesquisas do IPBES e notícias produzidas pelas Nações Unidas em 2019 que afirmava que mais de um milhão de espécies estariam em risco de extinção (e que havia oito milhões de espécies) em todo o globo, disputou essa noção em seu blog.
+O relatório das Nações Unidas, o IPBES, depende pesadamente da Red List da IUCN, qual lista tem ameaçadas de extinção somente 28% das espécies analisadas (em 2021). Fica claro que IPBES está prevendo a extinção de espécies que ainda devem ser descobertas.
+
+Wrighstone revelou em uma análise aprofundada da Red List em seu blog uma interpretação detalhada e bem diferente do encontrado pelo IPBES e, incusive, da própria Red List. 
+
+Observou-se menos de 900 extinções nos últimos 500 anos e 95% elas ocorreram em ilhas, pelos mesmos motivos já citados por Loehle & Eschenbach (2012) aqui.
+
+Conlusão: Observa-se que a Red List é extremamente mais confiável que o IPBES no que se refere a análise das espécies em risco de extinção e extintas pois a Red List utiliza-se de métodologia mais precisa e bem definida, contando espécies com nomes em Latin, ao contrário do IPBES que calcula espécies que sequer têm nome.
+
+
+[[
+UN Report: Nature's Dangerous Decline 'Unprecedented'; Species Extinction Rates 'Accelerating'
+“The overwhelming evidence of the IPBES Global Assessment, from a wide range of different fields of knowledge, presents an ominous picture,” said IPBES Chair, Sir Robert Watson. “The health of ecosystems on which we and all other species depend is deteriorating more rapidly than ever. We are eroding the very foundations of our economies, livelihoods, food security, health and quality of life worldwide.”
+<https://www.un.org/sustainabledevelopment/blog/2019/05/nature-decline-unprecedented-report/>
+
+
+Mass extinction lie exposed: life is thriving
+Gregory Wrightstone 5/13/19
+<https://inconvenientfacts.xyz/blog/f/mass-extinction-lie-exposed-life-is-thriving>
+
+-IPC:
+Where Are The Corpses? – Watts Up With That?
+Gregory Wrightstone
+<https://wattsupwiththat.com/2010/01/04/where-are-the-corpses/>
+
+
+
+Gregory Wrightstone: exposing the mass extinction lie – Watts Up With That?
+The world's most viewed site on global warming and climate change
+<https://wattsupwiththat.com/2019/05/27/gregory-wrightstone-exposing-the-mass-extinction-lie/>
+
+]]
+
+:::::::::::::::::::::::::::::::::
+::::
+Leung 2020
+they gt the same data and analysed , data behind behind the wwf index
+60% is actually an statistical artifact in the way the index is calculated, to some extent, 
+because its driven 2.4% more extreme declines in their database . it turns out if you look at the data behind it you see a balance between winners and loosers as well.
+:::::
+:
+::::
+Pensava-se que o linx iberiano (sudoeste da europa) seria previsivelmente extinto (débito de extinção). Em 2002, havia aproximadamente 94 animais restante e essa população aumentou para 855 em 2020, ver LynxConnect Project. Isso nos mostra como as espécies podem se recuperar se dadas uma chance. Está longe de ficar fora de ameaça, mas esse exemplo vivo de recuperação nos revela uma grande e boa supresa!
+
+
+[[
+Efeito Lázaro, ver Loehle & Eschenbach (2012) e referênica cruzada para esse ponto.
+]]
+
+mass extinction when 3\4 (50% a 90% nas últimas extinções em massa, vide Patrick Moore tb , mas não adicionar referência dele) os species go extinct. high threshold.
+mcguill et all 2015 Tree calculations show that current extinction rate would take 13.800 years to wipe out all species 9 million
+
+
+[[figura]]
+Figura 3. O LRS (razão de ruiqueza de espécies logarítimica) contra a escala espacial logarítimca. Círculos claros são de dados provenientes de observações e círculos escuros são baseadas em listas de checagem. Dados apresentados para (A) aves terrestes, (B) plantas terrestres, (C) mamíferos terrestres e (D) peixes marinhos durante o Antropoceno. A linha sólida representa o melhor ajuste de uma regressão quadrática ordinária dos mínimos quadrados e a linha tracejada são os quantils de 10% e 90%. Dependêcnia de contexto (escala) cria uma ampla gama de variações para cada forçante, em qualquer das direções. Veja Chase (figura 3, 2019) e compare com gráfico similar para plantas terrestres de Vellend (figura 5, 2017).
+
+
+
+
+Aumento de produtividade sempre foi relacionada com aumento de diversidade local.
+Na última década, apareceram artigos que vão na contramão de vários pressupostos ecológicos que especulavam que a função ecológica de um sistema estaria em risco devido à perda de biodiversidade. Entretanto, quando verificado no mundo real, primeiramente com um banco de dados com 168 estudos publicados, foi demonstrado que a variação de diversidade de espécies vegetais em períodos de cinco a 161 anos não é diferente de zero, com aumentos de diversidade tão frequentes quanto declínios em populações na escala local. Essa análise contradiz o pressuposto que diminuição da diversidade de espécies vegetais estaria ligada a perda de função do sistema e conflita resultados experimentais e função ecológica como motivador para conservação da biodiversidade na natureza.
+Vellend, 2014
+
+Pode-se concluir que, na ausência de conversão total de habitat, por exemplo uma floresta tropical tornando-se um estacionamento ou uma plantação de monocultura, a diversidade local de plantas não declinou, em média, no último século, nem há dados que indiquem que o futuro será diferente. Ainda, diferenças observadas na taxa de diversidade de espécies são fundamentalmente irrelevantes na avaliação de função de ecosistema, como por exemplo produtividade ou cliclamento de nutrientes.
+
+O estudo de Vellend foi posteriormente ampliado (Vellend, 2017) e mostra que as expectativas de espécies vegetais estarem em declínio no nível local nem sempre pode ser tomada por garantida.
+
+[[
+Vellend, 2014, ver referências 16-18,22 sobre o por que ele acha consenso que temos mais espécies extintas em nível global.
+]]
+
+
+[[
+https://www.nature.com/articles/nature11118
+Em estudo , foi verificado que taxas de declínio de extinções de até 50%,  (cenário de mundo real) representam ameaças equivalentes à função do ecossistema do que outros fatores, como aquecimento, níveis de CO2, fertilizantes etc.
+]]
+
+Savage e Vellend (2015), mostram que a distribuição de espécies, tanto de herbáceas, arbustos e árvores, está migrando para alturas mais elevadas nas montanhas devido ao aumento de temperatura devido ao aquecimento global, e ainda que a riqueza de espécies foi aumentada substancialmente nos últimos 40 anos.
+
+
+
+Estudos específicos são contexto-dependente podem apresentar resultados diferentes em níveis diferentes ou sistemas similares, mas no caso de espécies vegetais, a homogenização de espécies em nível global pode ser discutivelmente benéfica na geração de espécies, visto que a maior hibridação entre espécies compatíveis tende a aumentar a diversidade (???), de forma que devemos evitar uma visão estática da biologia (Pereira, 2012).
+
+
+
+[[
+the geography of biodiversity change in marine and terrestrial assemblages 
+]]
+blowes et al dornelas 2019 mostram resultados de várias diferentes taxa em diferentes partes do mundo, verifica-se que as tendências são indiscerníveis de zero.
+
+[[
+Taken together, our results suggest
+that land cover change in this agricultural landscape had little impact on temporal beta diver-
+sity of bird assemblages.
+Temporal Beta Diversity of Bird Assemblages
+in Agricultural Landscapes: Land Cover
+Change vs. Stochastic Processes
+Andrés Baselga1*, Sébastien Bonthoux2,3, Gérard Balent ,2015
+]]
+
+
+Dornelas (2014) começou uma coletânea de bases de dados minerados da literatura científica para ambientes marinhos e esperava que haveria uma tendência geral de diminuição de espécies em uma base de dados de aproximadamente 100 espécies. Encontrou que a tendência, no geral, é indistinguível de zero. Já a mudança de composição foi afetada ao longo do tempo por grande turnover de espécies, ou seja, as espécies estão constantemente sendo substituídas e propõe que há uma *mudança* sistemática na biodiversidade, e não _perca_.
+
+Em Daskalova e Dornelas (2020), no domínio terrestre, a prevalencia de ganhos e percas de cobertura de foresta .  Muito da mudança de cobertura de floresta é muito antiga, não é uma coisa nova, muita deflorestamento aconteceu nos 1800 e 1900, antes de começarmos a monitorar biodiversidade nesses ambientes (que começou só nos 1940 e 1950). Há deflorestamento mas mais antigo do que as pessoas estão acostumadas a pensar.
+Se compararmos as tendências antes de depois, as tendência de diversidade se tornam mais negativas depois de destruição de floresta, mas se tornam mais extremas nos ganhos, também mas apesar de menos. Ou seja, mudança na floresta é um catalisador tanto para maiores ganhos e perdas de biodiversidade, doq ue somente um catalista para perdas.
+Contra intuitivo, quando cortamos uma floresta alguns organismos se beneficiam com isso.
+
+
+
+(Dornelas, 2018)
+Dornelas tem estado interessada em dados de série temporal (mais de dois anos). A base de dados de séries temporais de biodiversidade no antropoceno, bioTIME, atualmente é uma coletânea de mais de 438 bases de dados, cobre os domínios de marinho, terreste e água doce
+, com séries de 1858 até o presente, disponível em http://biotime.st-andrews.ac.uk.
+
+
+Em Blowes et al Dornelas (2019), em que analisaram mais de 50 mil séries de dados,
+[[
+The geography of biodiversity change in marine and terrestrial assemblages
+Shane A. Blowes https://orcid.org/0000-0001-6310-3670 Sarah R. Supp https://orcid.org/0000-0002-0072-029X Laura H. Antão https://orcid.org/0000-0001-6612-9366Amanda Bates https://orcid.org/0000-0002-0198-4537[...]Maria Dornelas https://orcid.org/0000-0003-2077-7055
+]]
+verificou que, em ambientes costeiros marinhos, biodiversidade tende a aumentar, no geral, mas nos estudos que mostram um declínio estçao geralmente aglomerados nos trópicos, ressaltando aqui que há uma quantidae muito pequena de estudos nas áreas tropicais o que povavelmente sub-representa o real e atual estado dos trópicos.
+já a análise do domínio terrestre, em contrate, revelou quma figura muito mais misturada. Mas há definitivamente mais áreas que perderam maior diversidade do que áreas que ganharam, na média (afastamento da *estimativa* global).
+Já olhando a taxa de turnover de espécies, o quador é aina mais espetacular. No ambiente marinho, há muito maior taxa de turnover doq ue declínio. Os ambientes terrestres e de água doce estão mudando de composição (assemblages) menos que os ambientes terrestres, mas estão, em contrapartida, tendo menor taxa de turnover do que a estimativa global, do que maior taxa de turnover.
+Domínio marinho está mudando muito mais rápido que o domínio terrestre.
+
+
+Climate change
+Antão et al Dornelas (2020) mostrou que que um mundo que esquenta das menores latitudes para as maiores, mostrou que a distribuição da variação de biodiversidade tanto marinha quanto terrestre se mostraram similares ao longo do tempo e ao longo das latitudes disponíveis. Mas na média, foi detectada que o planeta está esquentadno, mas não em todos os lugares e não no memso rítimo
+}Mas alguns alguns lugares estão diminuindo de temperatura quando os padrões de circulação (as correntes marinhas) mudam por causa de fenômeonos naturias, por exemplo El Niños e Oscilações durante a série de dados. E, na média, observa-se um aumento na riqueza de espécies com a temperatura.
+Em modelo criado, projetou-se que há influência na interação entre mudança e temperatuda e tempratura de longo prazo no domínio marinho, mas não no domínio terrestre.
+}We find a strong coupling between biodiversity and temperature changes in the marine realm, where species richness mostly increases with warming. However, biodiversity responses are conditional on the baseline climate, such that in initially warmer locations richness increase is more pronounced while abundance declines with warming. In contrast, we do not detect systematic temperature-related richness or abundance trends on land, despite a greater magnitude of warming. 
+Ver também comentários de Comte e Lenoir (2020) "Decoupled land–sea biodiversity trends".
+
+
+
+
+
+
+
+
+
+Críticas aos trabalhos de Vellend (2013) e Dornelas (2014) se mostraram pouco fortes, mas  Gonzales (2016) e Cardinale (2018),  conseguiram reforçar a importância da análise do ponto de vista de escalas/proporções (local, da paisagem/cênico(?), regional e global) nas análises sobre função de ecossistemas. Nota-se que as espécies exercem função de forma mais influente precisamente na interface da escala local.
+Especificamente, Gozales (2016) expressou duas preocupações com os dados de Vellend (2013) e Dornelas (2014) sobre sua qualidade e se aqueles dados seriam realmente adequados para testar a hipótese de mudanças na riquesa de espécies local. De fato, entre tantas dúvidas e incertezas, Gonzales deveria ter selecionado algumas base de dados usadas nas pesquisas criticadas e validado a metodologia dos autores. Porém, sem a demonstração de que com bases de dados selecionadas a metodologia dos autores originais passaria por válida, ele tão somente disparou para sugerir totalmente novas metodologias de cálculos que resultavam em valores ordens de grandeza de liberdade diferentes dos obtidos pelos autores originais das pesquisas. 
+
+
+
+[[
+espécies esperadas a extinção, species predicted to go extinct
+might have already induced an “extinction debt” in many apparently viable resident populations 
+Hot topics in biodiversity and climate change research
+Barry W. Brooka,1 and Damien A. Fordham2, 2015
+]]
+
+[[
+measuring past biodiversity, jackson 2001
+https://www.science.org/doi/abs/10.1126/science.1063789
+nice graph of phanerozoic, exponential diversity increase
+also, there is decline between 450MY and 200MY.
+]]
+
+
+[[
+aumento de diversidade:
+    Published: February 1998
+Increase of biodiversity in homogeneous Scots pine stands by an ecologically diversified management
+    N. Lust, B. Muys & L. Nachtergale 
+Biodiversity & Conservation volume 7, pages 249–260 (1998)Cite this article 
+
+
+ Bark Beetles Increase Biodiversity While Maintaining Drinking Water Quality 
+
+
+Burkhard Beudert, Claus Bässler, Simon Thorn, Reed Noss, Boris Schröder, Helga Dieffenbach-Fries, Nicole Foullois, Jörg Müller
+First published: 12 December 2014
+https://doi.org/10.1111/conl.12153
+
+
+    Published: 11 March 2010
+Increase in biodiversity in the arctic rocky littoral, Sorkappland, Svalbard, after 20 years of climate warming
+    Jan Marcin Weslawski, Jozef Wiktor Jr. & Lech Kotwicki 
+Marine Biodiversity volume 40, pages 123–130 (2010)Cite this article 
+
+
+
+Artificial ponds increase local dragonfly diversity in a global biodiversity hotspot
+    John P. Simaika, Michael J. Samways & Philip P. Frenzel 
+Biodiversity and Conservation volume 25, pages 1921–1935 (2016)Cite this article
+
+]]
+
+
+[[
+THE ECOLOGICAL CONSEQUENCES OF CHANGES IN BIODIVERSITY: A SEARCH FOR GENERAL PRINCIPLES†
+David Tilman (tilman1999)
+First published: 01 July 1999
+In total, biodiversity should be added to species composition, disturbance, nutrient supply, and climate as a major controller of population and ecosystem dynamics and structure
+]]
+
+[[
+ancient countries were not edens
+
+The influence of former land-use on vegetation and biodiversity in the boreo-nemoral zone of Sweden
+Matts Lindbladh
+https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1600-0587.1999.tb01277.x
+
+PRESENT FOREST BIODIVERSITY PATTERNS IN FRANCE RELATED TO FORMER ROMAN AGRICULTURE
+E. Dambrine, J.-L. Dupouey, L. Laüt, L. Humbert, M. Thinon, T. Beaufils, H. Richard
+First published: 01 June 2007
+https://doi.org/10.1890/05-1314
+
+
+The Influence of Prehistoric Human-Set Fires on Oak-Chestnut Forests in the Southern Appalachians
+Paul A. Delcourt and Hazel R. Delcourt
+Castanea
+Castanea
+Vol. 63, No. 3 (Sep., 1998), pp. 337-345 (9 pages)
+
+AN EDEN IN ANCIANT AMERICAS?
+NEW YORK TIMES
+]]
+
+--como reconciliar esforços de conservação de espécies que precisam de recursos diferentes e conflitantes? 
+ver Loehle & Eschenbach, 2012, e pegar ref original
+--afazeres:
+----achar aquela figura cônica de cone de espécies por escala mais moderno citado por vellend no últiom ou penúltimo vídeo dele; 
+----ler referencia do patrick por último e arrematar texto com ele e fazer conclusão
+----ver todos screenshots e arrematar texto
+--conclusão: citar artigo de termodinâmica e evolução, citar estudo do rio de janeiro e a curva ambiental de kuznets.
+
+
+========================================================================
+========================================================================
+========================================================================
+========================================================================
+
+
+==================
+https://www.youtube.com/watch?v=oTPbX3S2d_4
+
+Syngenta's expert Jeff(??) Coats(??)
+Pollinator Network Initiative
+
+flower stripes and hedges to improve farmland habitats
+
+
+====
+https://www.youtube.com/watch?v=G6wp5mtnnGU
+
+Part 2. Species as the basic units in evolution and biodiversity by Prof. Johann Hohenegger
+
+he presents many references of the fields of evolution, names of people at the introduction.
+
+he talk about lots of evolution types, morphological and genetic evolutions, specially in the fossil records of foraminifera and other species found in sea sediment in petroleum exploration related
+
+anagenetic evolution = phyletic evolution
+
+evlution is driven primary by environmental change, not biological competition, after veron 1995
+
+
+=================
+cardinale 2018
+
+
+
+===========
+Vellend 2016b
+
+
+For example, nonnative species introductions typically increase regional-s­cale species richness (Sax and Gaines 2004, Winter et al. 2009), and in areas that are currently cold and humid (e.g., temperate-z­one mountain tops), species richness is also expected to increase due to climate warming (Pauli et al. 2012). On the other hand, nitrogen deposition often causes plant diversity to decline (Simkin et al. 2016
+
+Causes and trends of local biodiversity, and therefore any applied consequences, are just as described: local. The global average across many local trends is thus of applied significance only indirectly, via framing arguments about the consequences of biodiversity change (e.g., Hooper et al. 2013).
+
+
+===========
+Vellend 2016a
+
+antropocene and cimate change talk
+
+functional vs phylogenetic diversity
+
+distance =   \/   /                         
+              \  /
+               \/
+               |
+sum of the distance of brances between two tips
+
+
+A community with two species at equal abundance is considered more diverse than a community in which one of the two species is far more abundant than the other.
+
+
+The environmental correlates of plant biodiversity patterns across space provide insights into possible causes of temporal change. For example, if we assume that an unlogged forest represents the historical state of a logged forest, the difference between the two types of forest is an estimate of the change in plant diversity over time resulting from logging. Similar space-for-time infer- ences have been applied to many potential drivers of change, such as nitrogen deposition (91, 97) and climate change (94). An advantage of the space-for-time approach is
+the massive amount of applicable data.
+
+
+central tendencies of background plant extinction rates fall mostly in the range 0.05–0.15 species per million species per year (S/MSY) (see Table 1), whereas background speciation rates (based on the same data sources) fall mostly in the range of 0.1–1.0 S/MSY (Table 1).
+
+
+
+Anthropocene Extinction Estimates of Anthropocene extinction are usually made by estimating the proportion of species “committed to extinction” within a speciﬁed time frame given habitat loss or other anthropogenic factors, such as climate change. Alternatively, one can also estimate the Anthropocene extinction rate based on species whose extinction has already been observed (or inferred). Given the huge discrepancies between observed and projected extinction rates (98), we treat these rates separately, then discuss Anthropocene speciation.
+
+The future extinction rate in the face of habitat loss and climate change is even more uncertain.  Future risks from habitat loss, often referred to as commitment to extinction, are typically calcu- lated using species-area relationships.
+
+Anthropocene Speciation Until recently, analyses of Anthropocene biodiversity change have assumed that speciation is a negligible part of the equation. However, human activities during the Anthropocene include some of the key ingredients in the recipe for speciation, such as the establishment of new populations isolated from the species’ native range (114). For plants, hybridization plus a change in chromo- some number is an especially efﬁcient and historically common route to the rapid creation of new species (10, 126), although hybridization with
+nonnative species might also represent a threat to some rare native species (55). Many Anthropocene hybrid polyploid plant species have been doc- umented, but we sorely lack a global compilation. Based on data just for Great Britain, Thomas (103) estimated an Anthropocene speciation rate of 6.3 S/MSY, comparable to the Anthropocene extinction rate to date. We do not know whether the future plant speciation rate will be higher or lower.
+
+Global-Scale Conclusions Both extinction and speciation rates have likely increased owing to human activities during the Anthropocene.  We cannot conclude deﬁnitively that the number of plant species on earth has decreased or increased since the onset of the Anthropocene.  Extinctions during the coming centuries have the potential to greatly outnumber speciation events, causing a decline in global plant species richness.
+
+
+
+Species per million species per year or, alternatively, species per species per million years; for example, a speciation estimate of 1.0 S/MSY means that for
+every million species, one new species will arise each year, or, equivalently, each species is likely to give rise to one additional species every million years.
+
+
+
+==============
+https://www.youtube.com/watch?v=eJXpwK0n__Y
+9:52
+David Jablonski is the William R. Kenan, Jr. Professor in the Department of the Geophysical Sciences and the Committee on Evolutionary Biology (a multi-institutional PhD program) at the University of Chicago. 
+
+he fossil record is punctuated by extinction events at all scales, from the loss of one or two fish species with the drying of a lake, to the wholesale disappearance of dinosaurs (birds aside) 65 million years ago. The handful of events that are global in scale and bring down a wide spectrum of species are termed mass extinctions, which account for less than 10% of all the extinction over life’s long history, but have been pivotal in shaping the world’s biota. Because most research has centered on the causes of mass extinctions, we are just beginning to understand their evolutionary roles. Growing evidence points to a change in the rules of survival during mass extinctions, so that evolution is re-channeled during these rare but intense episodes. The evolutionary bursts that follow the extinctions may be just as important as the extinctions themselves, as new or previously obscure lineages take advantage of the opportunities opened up by the demise of dominant groups. However, a closer look at recovery intervals shows that survival alone does not guarantee evolutionary success: not all survivors are winners. The implications of this new understanding of extinction for present-day biodiversity are complex but wide-ranging.
+=============================================
+
+IUCN Red List of Threatened Species
+
+
+Análise I
+Todos os PDFs da Tabela 7, Species changing Red List Category, de 2007-2021
+foram convertidos em texto plano e contadas as razões para mudança de categoria com o comando esquemático abaixo.
+
+```
+print %s\\n **.pdf | while read ;do pdftotext $REPLY - ;done | grep -c -e '^N\s*$' -e '^G\s*$'
+```
+
+Total: 9385 (100%)
+Genuine reasons: 1092 (11,63%)
+Non-genuine reasons: 8288 (88,31%)
+Hybrid: 5 (0,05%)
+
+
+O exerto abaixo define o que são razões não-genuínas e razões genuínas para mudanças de categoria.
+
+```
+Non-genuine reasons
+
+    New information has become available since the last assessment (e.g., more recent data are available on population sizes, threatening processes, rates of decline or recovery, etc.).
+    There has been a taxonomic revision resulting in the species no longer being the same concept as it was before (e.g., it is now split into several species each with smaller ranges, population sizes, etc.; or it has been merged with other species so the range, population size, etc. are now larger than they were previously).
+    An error has been discovered in the previous assessment (e.g., the wrong information was used; the IUCN Red List Categories and Criteria were applied incorrectly; etc.).
+    The previous assessment used an older version of the IUCN Red List Categories and Criteria and the reassessment uses the current criteria which have slightly different thresholds.
+ 
+
+Genuine reasons
+
+    The main threats are no longer present, or conservation measures (e.g., reintroduction, habitat protection or restoration, legal protection, harvest management, etc.) have successfully improved the status of the species enough to move it into a lower category of threat.
+    The main threats have continued unabated, have increased, or new threats have developed causing the status of the species to deteriorate enough to move it into a higher category of threat.
+
+
+IUCN relies on research by scientists working around the world to make new and better species information available to allow Red List assessments to be updated and refined. All reassessments on The IUCN Red List include a record of the reasons for any change in Red List Category, and this allows us to identify which species are genuinely improving or deteriorating in status. Data for species that are genuinely changing status are used to calculate the Red List Index (RLI).
+```
+
+Fonte: <https://www.iucnredlist.org/resources/summary-statistics#Summary%20Tables>
+
+
+Análise II
+Resumindo as tabelas, um total de 9385 espécies que mudaram de categoria foram analisadas, sendo que 259 espécies mudaram de categoria mais de uma vez. As espécies avaliadas que mudaram de categoria fizeram-no no máximo três vezes entre 2007-2021.
+
+3924 mudanças de categorias para melhor ocorreram [[41,81%]]
+	-3756 mudanças por razões não-genuínas (95,71%)
+	-163  mudanças por razões genuínas (4,15%)
+	-5    mudanças por razões híbridas (0,12%)
+
+5395 mudanças de categorias para pior ocorreram [[57,48%]]
+	-4474 mudanças por razões não-genuínas (82,92%)
+	-921  mudanças por razões genuínas (17,07)
+
+66   mudanças de categorias iguais ocorreram (?) [[0,70%]]
+	-58   mudanças por razões não-genuínas (87,87%)
+	-8    mudanças por razões genuínas (12,12%)
+
+```
+na= t= n= g= h= ;grep $'\t'same /home/jsn/diversidade/species_analysis.txt | while read ;do a=( $=REPLY) ; case ${a[-1]} in ; N) ((++n, ++t)) ;; G) ((++g, ++t)) ;; hybrid) ((++h, ++t)) ;; *) ((++na)) ;; esac ;done ; print "N=$n G=$g H=$h total=$t NA=$na"
+```
+
+Das que mudaram de categoria para a mesma, ou não mudou ou mudou para equivalentes, pois algumas classificações da Red List foram desmembradas ou reclassificadas no decorrer dos anos desde sua inauguração.
+
+
+
+
+REFERÊNCIAS
+
+Second Law of Thermodynamics
+<https://www.grc.nasa.gov/WWW/k-12/airplane/thermo2.html>
+
+Geografia Geral e do Brasil
+<http://www.geografiaparatodos.com.br/index.php?pag=capitulo_13_a_dimensao_global_de_alguns_problemas_ambientais>
+
+
+
+
+Mass Extinction and Evolution
+View all available purchase options and get full access to this article.
+<https://www.science.org/doi/10.1126/science.278.5338.597>
+
+(PDF) New Evo-SETI results about civilizations and molecular clock
+<https://www.researchgate.net/publication/299476814_New_Evo-SETI_results_about_civilizations_and_molecular_clock>
+
+Millions of unknown species on Earth
+<https://earthsky.org/earth/new-census-we-share-earth-with-millions-of-unknown-species/>
+
+IUCN Red List of Threatened Species
+<https://www.iucnredlist.org/resources/summary-statistics#Table_7>
+
+IUCN Red List of Threatened Species
+<https://www.iucnredlist.org/statistics>
+
+How many named species are valid? | PNAS
+<https://www.pnas.org/content/99/6/3706>
+
+New species discovery rate, according to data available in the World.
+<https://www.researchgate.net/figure/New-species-discovery-rate-according-to-data-available-in-the-World-Register-of-Marine_fig2_346625792>
+
+Why so many (or so few) species? Find out.
+<https://earthsky.org/earth/why-so-many-or-so-few-species/>
+
+How Many Species Have Inhabited the Earth? A&S Researchers Say We May Never Know
+Ever since Swedish naturalist and explorer Carolus Linnaeus developed the uniform system for defining and naming species of organisms, known as binomial nomenclature (e.g., Homo sapiens for human beings), scientists have wondered if they will ever be able to predict the total number of species with whom we share the planet.
+<https://news.syr.edu/blog/2021/07/23/how-many-species-have-inhabited-the-earth-as-researchers-say-we-may-never-know/>
+
+The History of Animal Evolution
+Plant and Animal Evolution
+<https://sci.waikato.ac.nz/evolution/AnimalEvolution.shtml>
+
+Why Science is Media-dumb, by Michael Crichton
+I come before you today as someone who started life with degrees in physical anthropology and medicine; who then published research on endocrinology, and papers in the New England Journal of Medicine, and even in the Proceedings of the Peabody Museum. As someone who, after this promising beginning, turned to a life of crime, and spent the rest of his life in what is euphemistically called the entertainment business. And it is from the perspective of someone who has lived in both worlds that I want to speak to you today.
+<https://www.abc.net.au/science/slab/crichton/story.htm>
+
+number of living species on earth - Google Search
+<https://www.google.com/search?q=number+of+living+species+on+earth&tbm=isch&ved=2ahUKEwjB1ZC22qr0AhWXCLkGHZENCBQQ2-cCegQIABAA&oq=number+of+living+species+on+earth&gs_lcp=CgNpbWcQAzIICAAQCBAKEB4yBAgAEBhQ-Q5Yphxg2x9oAHAAeACAAeUBiAHxEJIBBjAuMTAuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=S-OaYYGENJeR5OUPkZugoAE&bih=1446&biw=980>
+
+(PDF) Life’s a Gas: A Thermodynamic Theory of Biological Evolution
+<https://www.researchgate.net/publication/282160976_Life's_a_Gas_A_Thermodynamic_Theory_of_Biological_Evolution>
+
+(PDF) The Economic and Ecological Effects of Water Management Choices in the Upper Niger River: Development of Decision Support Methods
+<https://www.researchgate.net/publication/248996967_The_Economic_and_Ecological_Effects_of_Water_Management_Choices_in_the_Upper_Niger_River_Development_of_Decision_Support_Methods>
+
+XXII.5.4.3 After a space of the order of ten million years, the original biodiversity is restored in the communities as a result of a faster rate of speciation | Frozen Evolution. Or, that’s not the way it is, Mr. Darwin. A Farewell to Selfish Gene.
+After several million years, the original biodiversity is gradually renewed by splitting of existing species, speciations.The rate of speciation apparently culminates approximately 10 million years after the end of a mass extinction.Simultaneously, it seems that the length of this interval is not directly correlated with the number of species affected by extinction (Kirchner & Weil 2000b; Kirchner & Weil 2000a).So far it is not at all clear which mechanism maintains a sort of homeostasis in the number of species occurring simultaneously in the environment; one of the possibilities is discussed in section XXII.7.However, it is clear that, over the entire Phanerozoic period, i.e. a period of more than 500 million years, the number of speciations has been almost identical with the number of extinctions.There is a difference of only 0.1 – 1 %.Consequently, the overall biodiversity, expressed as the number of simultaneously living species, increased only very slowly over time, even though s
+<https://www.frozenevolution.com/xxii543-after-space-order-ten-million-years-original-biodiversity-restored-communities-result-faster>
+
+Exponential curve representing the growing number of species on Earth...
+... up to now, without taking the well-known Mass Extinctions into any consideration at all.
+<https://www.researchgate.net/figure/Exponential-curve-representing-the-growing-number-of-species-on-Earth-up-to-now-without_fig1_258789286>
+
+
+
+
+ANIMAIS REDESCOBERTOS / LISTAS DE EXTINÇÃO
+
+Mastodontes migraram por distâncias extremas por conta de mudanças climáticas
+Os animais, extintos há 11 mil anos, caminhavam sobre a América do Norte para se adaptar ao clima
+<https://www.cnnbrasil.com.br/tecnologia/mastodontes-migraram-por-distancias-extremas-por-conta-de-mudancas-climaticas/>
+
+Cinco Animais quase Extintos. Um deles você nunca imaginou
+Atualmente, os cientistas têm observado atentamente diferentes espécies de animais devido à mudança climática que estamos experimentando agora.
+<https://fatovirtual.com/animais-quase-extintos/>
+
+Animais correm risco de extinção na Floresta Amazônica
+<https://www.meon.com.br/meonjovem/alunos/animais-correm-risco-de-extincao-na-floresta-amazonica>
+
+Animais em vias de Extinção
+<https://animaisemviasdeextincao758.blogspot.com/>
+
+Animais em Vias de Extinção: 2011
+<https://003salvemosanimais.blogspot.com/2011/>
+
+As boas e más notícias da nova lista de espécies ameaçadas de extinção
+O Ministério do Meio Ambiente acaba de atualizar a Lista de Espécies Ameaçadas de Extinção. Porém, há também as boas, sinais de que estamos melhorando em alguns setores. Separamos alguns pontos interessantes.
+<https://epoca.oglobo.globo.com/colunas-e-blogs/blog-do-planeta/noticia/2014/12/boas-e-mas-noticias-da-nova-lista-de-bespecies-ameacadas-de-extincaob.html>
+
+A espécie rara de cervo-rato que foi 'redescoberta' depois de 30 anos no Vietnã
+<https://www.bbc.com/portuguese/geral-50405549>
+
+À procura do (extinto ou talvez não) equidna-de-bico-longo-ocidental na Austrália | Biodiversidade
+Pele e ossos de mamífero que põe ovos e só é conhecido na Nova Guiné estavam num museu e eram de animal recolhido na Austrália em 1901, onde se pensava que a espécie estava extinta há milénios.
+<https://www.publico.pt/2013/01/03/ciencia/noticia/mamifero-primitivo-que-se-pensava-extinto-na-australia-pode-afinal-estar-vivo-1579367>
+
+8 animais extintos que não estão mais extintos | Super
+<https://super.abril.com.br/galeria/8-animais-extintos-que-nao-estao-mais-extintos/>
+
+Séculos de estudo: afinal, os animais são ou não capazes de pensar?
+Imagine um animal em situação de perigo. Antes de se aproximar do objeto ameaçador, ele apenas observa de longe seus movimentos. Depois, vencido pela curiosidade, se aproxima, não sem saltar para trás em apreensão – e precaução. Quando considera que não há perigo, ganha confiança e volta a agir normalmente.
+<https://hypescience.com/seculos-de-estudo-afinal-os-animais-sao-ou-nao-capazes-de-pensar/>
+
+Ave ameaçada de extinção se reproduz ‘sem fecundação’, feito inédito na espécie | National Geographic
+O condor-da-califórnia quase foi extinto na década de 1980, mas desde então se recupera lentamente.
+<https://www.nationalgeographicbrasil.com/animais/2021/11/ave-ameacada-de-extincao-se-reproduz-sem-fecundacao-feito-inedito-na-especie>
+
+Rato extinto há 150 anos "ressuscita" na Austrália
+Cientistas australianos descobriram nas ilhas ocidentais australianas uma espécie de rato que pensavam estar extinta há 150 anos, segundo um estudo publicado nesta terça-feira.
+<https://www.msn.com/pt-pt/noticias/ultimas/rato-nativo-considerado-extinto-h%C3%A1-150-anos-foi-encontrado-na-austr%C3%A1lia/ar-AALAj76>
+
+Pesquisadores fotografam macaco que se pensava extinto há quase meio século
+RIO — Os primatologistas independentes Lieven Devreese e Gaël Elie Gnondo Gobolo conseguiram uma prova que o Colobus vermelho de bouvier (Piliocolobus bouvieri), macaco de médio porte natural das florestas ao Norte da República do Congo, não está extinto. De acordo com a Wildlife Conservation Society (WCS), esses animais não são vistos há quase meio século e se pensava que eles estavam extintos, mas os dois pesquisadores conseguiram a primeira fotografia de exemplares da espécie.
+<https://oglobo.globo.com/brasil/sustentabilidade/pesquisadores-fotografam-macaco-que-se-pensava-extinto-ha-quase-meio-seculo-15906724>
+
+Animais Extintos Redescobertos
+Acredito que, no meio ambiente, não há nada mais trágico do que a extinção de uma espécie, seja fauna ou flora. Porém, ainda é possível manter as esperanças quando a natureza se encarrega de não deixar isso acontecer e, em vários casos, nos presentear com o retorno do que se pensava perdido…
+<https://www.mundoecologia.com.br/animais/animais-extintos-redescobertos/>
+
+Os 10 principais animais que você pensava que estavam extintos, mas não estão
+<https://replicario.com.br/os-10-principais-animais-que-voce-pensava-que-estavam-extintos-mas-nao-estao/>
+
+Qual animal que antecede os dinossauros que pensávamos estar extinto, mas está vivo e bem?
+Aconteceu algo de errado. Espere um momento e tente novamente. -Barata
+<https://pt.quora.com/Qual-animal-que-antecede-os-dinossauros-que-pens%C3%A1vamos-estar-extinto-mas-est%C3%A1-vivo-e-bem?share=1>
+
+O porco mais pequeno do mundo, que se pensava extinto, regressou à natureza
+Um porco-pigmeu em cativeiro no Centro de Criação de Porcos-pigmeus em Guwahati, Índia.
+<https://www.natgeo.pt/animais/2021/05/o-porco-mais-pequeno-do-mundo-que-se-pensava-extinto-regressou-a-natureza>
+
+Animais considerados extintos reaparecem
+<https://anda.jusbrasil.com.br/noticias/153706887/animais-considerados-extintos-reaparecem>
+
+5 animais que foram considerados extintos – mas estão vivos
+A rã foi encontrada por biólogos depois de quase uma década sem ser vista
+<https://revistagalileu.globo.com/Ciencia/noticia/2019/03/5-animais-que-foram-considerados-extintos-mas-estao-vivos.html>
+
+<https://www.fatosdesconhecidos.com.br/ciencia-acreditava-que-esse-animal-estava-extinto-ha-milhoes-de-anos-ate-que-um-exemplar-foi-descoberto-vivo/>
+
+Espécie que inspirou desenho Pica-Pau é declarada extinta; causa são as mudanças climáticas
+<https://br.noticias.yahoo.com/especie-que-inspirou-desenho-pica-pau-declarada-extinta-causa-seriam-mudancas-climaticas-143205180.html>
+
+Sexta extinção em massa já está acontecendo – e mais rápido do que se pensava | Super
+Estima-se que 99% de todas as espécies que já existiram na Terra hoje estão extintas.
+<https://super.abril.com.br/ciencia/sexta-extincao-em-massa-ja-esta-acontecendo-e-mais-rapido-do-que-se-pensava/>
+
+
+=========================
+watch?v=UEcaZM6zlNI
+25<min
+new growth forests after intense fire diversity equal or more than before
+
+
+Fires burns less intensely in larger forests and it seems that the longer a forest does not undergo fire (e.g. >75 years), seems to have lower intensities fire more than recently burnt forests.
+
+This is because of canopy cover. The more cover there is, more humidity is present and thus lower fire intensities occur more often. IMO, less comburent is prone to reach the burning fuel, thus less intesity fire'.
+
+
+pre-fire mortality effect on fire intensity.
+more dead trees burn at equal or loweer intensites.
+why? downlogs are full of water, retain 25x more water than soil, sponges, even in the middle of dry/fire seasons.
+
+conifers and dry pipne.
+life needs high intensity fire.
+deade trees are softer and many species, including woodpeckers and maggots, need the bark of nurnt trees to proliferate easier.
+
+no salvage logging.
+
+
+-Debunking Wildfire Myths with Dr Chad Hanson of JMP in association with The Dogwood Alliance, YouTube Channel The John Muir Project
+
+
+there would be likely more resiliency towards in these areas in the cae of climate change
+johnston et all 2021
+greater extent of wild fire in wilderness areas vs managed areas
+did not control for force type
+vs bradley et all 2016
+
+
+old/dense forest < mature and late successional  forest < old growth forest
+
+
+prescribed natural fire but no logging at all.
+fire intensities.
+
+bird diversity increase with fire intensity....^^
+
+cicling of nutrients
+forest dont need to be planted after fires, regenerate naturally
+if previous area was logged intensely or soil is damaged.
+
+abuse of prescibed guise fires or guises
+overstate overestimate how frequnet fires were.
+
+logging is not good way for curbing fires or less fires, it produces intensity
+like thinning, bad for species that need dense forests and dead trees
+
+
+============
+Lecture 10 1 Speciation and Hybrid Zones
+Allopatric, Sympatric and Parapatric Speciation (Geographical Isolation)
+
+============
+Provost - mass extinctions
+
+
+species that have wide geographical distribution may not be prepared for the changes in a mass extinction. a species that has a trait that tracks a specific environment variable/constraint/range are less successfull in recovery after mass extinctioni events than species that didn't have a trait so specific/perfected as others before the event.
+
+after a mass extinction event, speciation rate increase and is increase thereafter until today.
+
+bivalves are good to study in mass extinction events because they are so diverse and abundant.
+
+recovery is a subject very uncertain and still being studied by him.
+
+
+
+=====
+
+USENET
+
+https://earthjustice.org/news/press/2007/bush-administration-moves-to-gut-endangered-species-act
+
+A major change would make it more difficult for a species to gain protection, by scaling back the "foreseeable future" timeframe in which to consider whether a species is likely to become extinct. Instead of looking far enough ahead to be able to reasonably determine whether a species could be heading for extinction, the new regulations would drastically shorten the timeframe to either 20 years or 10 generations at the agency's discretion. For species with long generations like killer whales and grizzly bears, this truncated view of the future isn't nearly enough time to accurately predict whether they are at-risk now.
+
+
+Bird-eating frog among 163 new species found in Mekong region
+
+(CNN) -- A frog that eats birds and a gecko with leopard stripes are among the 163 new species discovered The discovery of 100 new plants, 28 fish, 18 reptiles, 14 amphibians, two mammals and one bird species highlights the extent of the biodiversity in the region, said Barney Long, head of the WWF's Asian Species Conservation program.
+
+"It's a melting pot of diverse habitats. It has some of the wettest forests on the planet, high mountains, and a diverse array of terrestrial and marine habitats, including the Mekong River," he said.
+
+Globally, new species of mammals are rare finds, but in 2008 alone, new species of the mouselike musk shrew and a tube-nosed bat emerged from the region.
+
+Since 1997, nearly 1,200 new species have been discovered, many that cannot be found anywhere else, said Dekila Chungyalpa, director of WWF's Greater Mekong Program.
+
+
+Bald eagle is the Ultimate Endangered Species Act Success Story
+also red wolf
+
+
+Ming the clam is oldest mollusc
+Scientists said the ocean quahog clam was aged between 405 and 410 years and could offer insights into the secrets of longevity.
+<http://news.bbc.co.uk/2/hi/science/nature/7066389.stm>
+
+
+Animal Extinction - the greatest threat to mankind
+
+The 1960's "Report from Iron Mountain concerning the Possibility and Desirability of Peace"
+UFOs or Environment? communism
+
+
+ver artigo, linha ~52000 de ~/extinction_usenet2.txt
+"When dominant [species] were removed through logging," she says, "there was an enhancement of what we would call the 'suppressed species.'"  Many of these suppressed species are what environmentalists typically point to as the species most worthy of preservation -- those with medicinal properties. The Natural Resources Defense Council's "Rainforest Book: How
+Ninety-five percent of the original animal species have returned, prompting many to believe that "sustainable logging" can lower costs and increase productivity and help prove that man and nature can, indeed, co-exist in the Amazon.  Greenspirit's Moore.
+- X football fields are being deflorestated every second, they are counting areas where the fire has previously burnt and people are trying to keep these areas clean
+- Y number of species are going extinct, like 50,000 or
+>peoples and biodiversity are critically threatened, with some 50 - 150
+>species lost / day,    [line:52595]
+
+
+artigo brasileiro que fala de Kuznets:
+(PDF) Natural regeneration and biodiversity: a global meta-analysis and implications for spatial planning
+<https://www.researchgate.net/publication/310630808_Natural_regeneration_and_biodiversity_a_global_meta-analysis_and_implications_for_spatial_planning>
+
+===
+barnaud 2021
+Is forest regeneration good for biodiversity? Exploring the social dimensions of an apparently ecological debate
+
+In this case, the discursive struggles were not structured around “forest” versus “open ecosystems” as in the other cases, but rather around “managed ecosystems” versus “natural ecosystems”. On the one side, forest owners and park managers’ dis­ courses coalesced around the idea that healthy ecosystems require human interventions. On the other side, there likely was a discourse- coalition combining the ideas that true nature means no human inter­ vention, and that nature belongs to everyone, held by many visitors and new residents,
+creating tensions with the forest owners. The park managers therefore made an effort to counter this vision through “ed­ ucation programmes” for visitors.
+
+the three i's. ideas, ideals and institutions. Spain, France and Scottland. 
+
+power, knowledge and discourse nexus.
+construction of a given discourse on an environmental issue.
+
+what drives the motivation and discourses of people who want more natural ecosystems is not only a desire to increase naturalness, but is also linked to the perceived lack of legitimacy  of the people who transform these ecosystems. such legitimacy is a social construct which can be contested (natives, land users vs new comers)
+
+-também ver Bartolemé, 2005
+
+===
+
+dangerous invading species
+pinheiro americano que suprime outras espécies (jeff)
+When mainland species like rats or pigs are introduced to islands, they
+drive many indigenous species to extinction. [line:190579]
+
+===
+usenet
+
+Man is superior to plants and animals. Everyone knows that.
+That is why we eat plants and animals, and they rarely eat us.
+line:194719
+
+
+Let us pray for the soul of Richard Dawkins | Cristina Odone | The Guardian
+You are on a deserted beach with a rifle, an elephant and a baby. This is the last elephant on earth and it is charging the baby. Do you shoot the elephant, knowing the species would become extinct?
+<https://www.theguardian.com/commentisfree/2007/may/13/comment.religion1>
+
+  Than again the question is appropriate,
+  why saving a species from extinction would have any value at all.
+  A lion certainly would not refrain from eating (one of) the last
+  surviving zebra(s).
+  It is typically human to have such an idea in the first place.
+
+  Peter van Velzen
+ 
+
+> Quite apart from which; df's post was asking for predictions that even with
+  > full knowledege of initial conditions don't fall out of the theory.  It's
+  > like asking somebody to use orbital mechanics (alone) to predict how many
+  > planets a star will have.
+
+
+  Or to predict the weather. In many ways it's a similar problem to
+  making predictions about evolution.
+
+  We would predict that the general pattern of colonisation, and the
+  niches in which organisms are likely to evolve in this hypothetical
+  island. We couldn't predict which organisms would occupy those niches.
+  I enjoy Dougal Dixon's 'Life after Man', in which he imagines existing
+  animals radiating into niches left open by a mass extinction event in
+  the near future. He gives us giant, fully aquatic penguins and
+  flightless bats to name my two favourites.
+
+  RF
+
+
+
+
+ More and more researchers are finding that what once were
+
+  thought to be separate populations of the same species are,
+  in fact, different species or lineages, each as genetically dis-
+  tinct as a horse from a cow.
+
+  "Biodiversity has been grossly underreported," said David
+  Wake.
+
+  This unsuspected diversity, often termed "cryptic biodiver-
+  sity," is turning up in everything from whales to birds, fungi
+  to flowering plants. It has implications for those who keep
+  track of species, such as those who enforce the Endangered
+  Species Act, as well as for biologists attempting to assess
+  diversity in a particular region. Plus, it raises questions about
+  the preservation of biodiversity. ...
+
+
+
+============
+Barnaud, 2021
+
+The third type of discourse framed forest regeneration as an
+ecological success, enabling the recovery of forest biodiversity and a
+return to more natural ecosystems. In the Scottish case, this was a
+dominant discourse within the park authority, cautiously connected
+with the increased interest for rewilding ideas in the country; 
+
+
+
+Seeing forest regeneration as a ‘success’
+or as a ‘threat’ for biodiversity are different social constructions,
+
+
+====
+usenet
+
+ Green groups warn that logging is threatening some animals with extinction.
+  Are you telling me they're wrong?
+
+  In 1996 the World Wide Fund for Nature (WWF) announced that 50 000 species
+  are going extinct each year due to human activity. And the main cause, they
+  said, is commercial logging. The story was carried around the world, and
+  hundreds of millions of people came to believe that forestry is the main
+  cause of species extinction. During the past three years I've asked the WWF
+  on many occasions to provide me with a list of some of the species that have
+  supposedly become extinct due to logging. They have not offered up a single
+  example as evidence. In fact, to the best of our scientific knowledge, no
+  species has become extinct in North America due to forestry.
+
+
+
+
+Dr. Edward O. Wilson, professor of science at Harvard University,
+noted that 1.6 million to 1.7 million species of plants, vertebrates,
+invertebrates, fungi, algae and micro-organisms had been classified.
+But he added in an interview that estimates of those that had not yet
+been described ranged from 5 million to 30 million.
+
+His own rough estimate of the number of species that are now
+vanishing each year is "10,000 and increasing."
+
+
+The World
+Bank estimate is that the number of humans will reach a plateau of 11
+billion in the year 2050. 
+
+
+Richard Carnes’s profile photo
+Richard Carnes
+unread,
+24 Sept 1986, 20:00:54
+to
+[This article contains no philosophy. But in the 17th century it
+would have been described as "natural philosophy". Follow-ups are
+directed to net.sci.]
+
+[w...@milano.UUCP]
+>I seem to recall that experts now think that 98% of all species are
+>now extinct. It is hard to believe figures for species extinction
+>from the past because the information from that time is so poor.
+>Most species were not even known; how would we determine how many
+>species died out from say 1700-1799? There is evidence for species
+>known today but how does that compare with the past?
+
+Records of the disappearance of birds and mammals have been
+reasonably accurate since about 1600. Around 130 bird and mammal
+species became extinct between 1600 and 1975. In 1600 there were
+about 12,910 species of birds and mammals, and on this basis the
+average rate of extinction during this period is estimated to be 5 to
+50 times as great as the average rate during the prehistoric past.
+[Sources: Fisher, Simon, and Vincent, *Wildlife in Danger* (1969);
+Ehrlich et al., *Ecoscience*.]
+
+No one knows or will ever know the exact number of species of all
+types of organisms that have become extinct since 1600. One
+difficulty is that we don't know how many living species there are
+even within an order of magnitude. About 1.6 million species have
+been catalogued and described, but this is probably well under half
+of the total.
+
+E.O. Wilson writes [*Biophilia* (1984), pp. 121-122]:
+
+Extinction is accelerating and could reach ruinous proportions during
+the next twenty years. Not only are birds and mammals vanishing but
+such smaller forms as mosses, insects, and minnows. A conservative
+estimate of the current extinction rate is one thousand species a
+year, mostly from the destruction of forests and other key habitats
+in the tropics. By the 1990s the figure is expected to rise past ten
+thousand species a year (one species per hour). During the next
+thirty years fully one million species could be erased.
+
+
+
+==
+https://corante.com/loom/never-mind-that-boiling-kettle/
+
+United Press International gave more attention to O'Keefe's claims--
+
+"As with everything climate-related, however, the verdict is not unanimous. In
+a review of the literature on the subject published in July 2003, the George C.
+Marshall Institute in Washington, D.C., concluded: 'The facts do not support
+claims of mass extinctions arising out of climate change. Whether through
+adaptation, acclimation or migration, available research suggests that the
+threats may be overstated.'
+
+"The Marshall report, by Sherwood Idso, Craig Idso and Keith Idso, said to
+expect 'a biosphere of increased species richness almost everywhere on Earth in
+response to the global warming and increase in atmospheric (carbon dioxide)
+concentrations of the past century and a half that have promoted a great
+expansion of species range throughout the entire world.'"
+
+The Idso report does not appear in a scientific journal, but simply lingers on
+the George C. Marshall Institute web site. You can search for a reference to it
+in the major scientific journals on global change, but you will search in vain.
+
+
+
+Adapations to global warming are certainly an important factor in how the
+natural world will respond to all our greenhouse gases. Animals and plants
+don't simply keel over if things get a little warm. They have strategies
+encoded in their genomes to adapt in their lives to changing environments. They
+are plastic. And on top of that, over time they can evolve to become better
+adapted to a changing environment. Over the past 20 years, evolutionary
+biologists have documented rapid natural selection in the wild. In the face of
+intense fishing, for example, some salmon have evolved to be 25% smaller in
+just a few decades
+
+Life is already
+adapting to the warming world. In the Proceedings of the Royal Society of
+London, Canadian researchers report that red squirrels in the Yukon have
+responded to the warming climate by breeding 18 days earlier than they did in
+1989. Part of this shift was the result of changing genes.
+
+
+The biggest misunderstanding that Easterbrook and his fellow "skeptics" have is
+that extinctions happen overnight. In fact, extinctions take time. Thomas and
+his coauthors talk about 18-37% o
+
+
+RECENT EXTINCTIONS: Another common tactic for questioning extinction science is
+to claim that we should already have a long record of human-caused extinctions
+and don't. Easterbrook asks why, for example, we haven't seen a lot of
+extinctions in the past 20 years in the Pacific Northwest, a place that has
+experienced warming as well as habitat destruction and whose wildlife is very
+well studied by scientists. "For anything even remotely close to Thomas's 1.25
+million extinctions to be a hard number, we should already be seeing the bow
+wave in the form of dozens if not hundreds of extinctions in well-studied areas
+like the Pacific Northwest. Instead we see, um, zero."
+
+==
+Category:Species made extinct by human activities - Wikipedia
+This category lists some of the species that have become extinct due to humans.
+113 pages.
+<https://en.wikipedia.org/wiki/Category:Species_made_extinct_by_human_activities>
+a hypothetical extinct species.. (Martinique amazon)
+species that went extinct because of other species that humans may have introduced..(Mount Glorious day frog)
+
+
+evidence is indicative that humans had at least a contributory role in the extinction of the Carolina parakeet
+A factor that exacerbated their decline to extinction was the flocking behavior that led them to return to the vicinity of dead and dying birds (e.g., birds downed by hunting), enabling wholesale slaughter.[30]
+American ornithologist Noel F. Snyder[8] speculates that the most likely cause seems to be that the birds succumbed to poultry disease, although no recent or historical records exist of New World parrot populations being afflicted by domestic poultry diseases.
+Crazy how a native animal like the Carolina parakeet is gone but southern California has a thriving population of introduced parakeets
+
+see:
+https://www.reddit.com/r/ExtinctionSighting/
+rediscovered species
+
+Do mention Dodo extinction by humans
+===
+In Galapagos Finches, Biologists Catch Evolution in the Act
+<https://www.discovermagazine.com/planet-earth/in-galapagos-finches-biologists-catch-evolution-in-the-act>
+
+The Grants have pushed that work further, with
+decades of painstaking observations providing a real-time record of
+evolution in action. In the PNAS paper, they describe something Darwin
+could only have dreamed of watching: the birth of a new species
+[http://www.wired.com/wiredscience/2009/11/speciation-in-action]. The
+process has been taking place with the help of a little bit of chance
+and a special song.
+
+The split began in 1981 when an unusually large male finch from Santa
+Cruz island arrived on the island where the Grants were based, Daphne
+Major. The biologists tagged the bird number 5110, and followed him
+and his offspring through seven generations tota
+
+A species is defined as a reproductively isolated population. It is
+not necessary that a new species look, to our eyes, as different from
+the parent population. Take the case of Hyla chrysoscelis and Hyla
+versicolor (http://wwknapp.home.mindspring.com/docs/
+gray.tfrogs.html). The main difference is their mating calls (not a
+fossilizable feature) and that versicolor is polyploid (which is the
+reproductively isolating feature and also not a fossilizable
+feature). And, in fact, it would be surprising for the descendants of
+5110 to look significantly different from their parents. But they
+*are* reproductively isolated from the stock that 5110 came from.
+
+---
+Species and creation
+}- No new species (alternately, "kinds") are evolving today.
+<https://groups.google.com/g/alt.atheism/c/B6hljEsjt-8/m/r7wV4lZ4Du8J>
+
+
+}- No new species (alternately, "kinds") are evolving today.
+"Three species of wildflowers called goatsbeards were introduced to the
+United States from Europe shortly after the turn of the century. Within
+a few decades their populaltions expanded and began to encounter one another
+in the American West. Whenever mixed populations occurred, the specied
+interbred (hybridizing) producing sterile hybrid offspring. Suddenly, in
+the late Fourties two new species of goatsbeard appeared near Pullman,
+Washington. Although the new species were similliar in appearance to the
+hybrids, they pproduced fertile offspring. The evollutionary proces
+had created a separate species that could reproduce but not mate with
+the goatsbeard plants from which it had evolved."
+
+The article is on page 22 of the February, 1989 issue of
+_Scientific_American_. It's called "A Breed Apart."
+It tells about studies conducted on a fruit fly,
+Rhagoletis pomonella, that is a parasite of the hawthorn
+tree and its fruit, which is commonly called the thorn
+apple. About 150 years ago, some of these flies began
+infesting apple trees, as well. The flies feed an breed
+on either apples or thorn apples, but not both.
+There's enough evidence to convince the scientific
+investigators that they're witnessing speciation in action.
+Note that some of the investigators set out to prove that
+speciation was not happening; the evidence convinced them
+otherwise.
+
+In 1916, a single pair of wallabies escaped from a zoo in Oahu. They survived
+and bred in the wild, and now there is a whole population. They are smaller
+and more lightly colored than the Aussie wallabies. They eat Hawaiian plants
+that are poisonous to the Aussie wallabies, because they evolved a new liver
+enzyme to detoxify them. They can no longer breed with the Australian
+wallabies, so they qualify as a new species.
+
+Sources: "Instant Evolution", Science Digest, July 1982
+Saladin / Gish debate at Auburn University at Montgomery, 24 March 1984
+
+How can you say that no new species have arisen when dozens of previously
+undiscovered species are found each year in Costa Rica alone?
+Also, isn't the latest evidence that maize evolved about 4000 years ago?
+
+
+ But how can we
+know in advance whether or not this will happen? That's what you're
+asking for when you want to see a new phylum arise today.
+
+
+fossil is 3.8 billion years old. That leaves a lot of time for
+genetic variation to be shaped by selective pressures. 
+----
+Darwin's Predictions - 13
+<https://groups.google.com/g/alt.atheism/c/5yxnF4CdIsc/m/oBHMXzr1SdUJ>
+
+Massive genetic differences were also found between different fruit fly
+species. The fruit fly is one of the most intensely researched organisms
+and in recent years a systematic study of the genomes of a dozen
+different species was undertaken. Evolutionists were surprised to find
+novel features in the genomes of each of these different fruit fly
+species. Thousands of genes showed up missing in many of the species,
+and some genes showed up in only a single species. As one science writer
+put it, "an astonishing 12 per cent of recently evolved genes in fruit
+flies appear to have evolved from scratch." These so-called novel genes
+would have had to have evolved over a few million yearsï¿½a time period
+previously considered to allow only for minor genetic changes.
+
+Such findings are not limited to bacteria and insects, and substantial
+genetic differences, in otherwise allied species, are now undeniable.
+Furthermore, there is compelling evidence that new genes can be
+manufactured in response to environmental pressures. For instance, in
+the 1970s bacteria were found that could metabolize nylon, even though
+nylon synthesis had begun only a few decades earlier. 
+
+--
+https://groups.google.com/g/pondicherry-science-forum/c/Un8ft8SiPrc/m/9xIT9uJHXRIJ
+Why evolution is going nowhere fast
+
+    05 April 2011 by Michael Le Page
+    New Scientist Magazine issue 2806. 
+
+
+Compared with the gradual process described by Darwin, this is evolution at warp speed. What is really startling, though, is that far from than being exceptional, high-speed evolution is starting to look like the norm. Very few biologists set out to look for evidence of ongoing evolution, but wherever they do, they find it - from weeds and pests to fish to humans (see "We are evolving too"). It now appears that whenever the environment changes in any way, life evolves. Fast.
+
+Today, there are probably thousands of examples, and a growing number of biologists think that far from being an exception, rapid evolution is common. "Wherever people look for it, it's there," says Kinnison. "Very fast change can occur in very short periods." And thanks to advances in genetics, we are beginning to understand how it is possible.
+
+Going backwards
+
+Speciation can also go into reverse. On the nearby island of Santa Cruz, two incipient species are collapsing back into one. Work in the 1960s showed the finches on this island had split into large and small-beaked strains, specialising in different-sized seeds. Now most have medium-sized beaks, probably as a result of people feeding birds rice, making small or large beaks less of an advantage.
+
+Many other examples are being discovered. Lake Victoria in east Africa is home to more than 500 species of cichlid fish, many of which split off in the past 15,000 years. Now many species are merging back together.
+
+Red Queen hypothesis. What is new, though, is the idea that not only can this kind of evolution occur far more rapidly than once thought, but that the runners in the race keep switching direction.
+
+ As Kinnison puts it, the popular view of evolution is upside down. People think evolutionary changes are imperceptible in the short term but add up to big changes over millions of years. In fact, the opposite is true. It now appears that organisms evolve very rapidly in response to any changes in their environment, but in the longer term most evolutionary changes cancel each other out.
+
+So the longer the period you look at, the slower evolution appears - a phenomenon first pointed out in 1983 by Philip Gingerich of the University of Michigan, Ann Arbor (Science, vol 222, p 159). At the time nobody believed it, but "people have recognised now that it was a very insightful piece of work," says Hairston.a
+
+proof: insects acquire resistance to insectices, bacteria to antibiotics very fast
+
+----
+https://groups.google.com/g/sci.bio/c/6bLqN7TLCCM/m/j-uAsD3H04YJ
+
+No. P.E. deals with the tendency of species to remain relatively
+satble over their span of existance, and for new species to appear
+over geologically short intervals. A good summary of this can be
+found in books like "Time Frames" by Niles Eldridge (he is one
+of the co-founders of the theory of punctuated equilibria, so
+he *ought* to be a good source on what it includes).
+
+ About the longest running vertebrate species I know
+of is Edmontosaurus regalis, which seemed to last about 8 million
+years, and died out in the terminal Cretaceous extinction event.
+[The species includes most of the specimens formerly identified
+as Anatosaurus].
+
+longos tempos de statis
+environmental factor driving extinction patterns also driving speciation patterns.
+the environment drives all this. extinction and evolution. rearrange of habitats, fragmentation of species but lead to generation of species some times, some species survive can sail right through it.
+intermediate levels of exctintion and turnover is the generation of species.
+it has to hit the entire species geographically wherever the systemic change is in the physical world.
+periods of rapid change that we see occasionally punctuating the otherwise long boring history of stability.
+may also be because of transposons. but it was happening as regional system-wide phenomena.
+
+darwin liked lamarck.
+punctuation equilibria is aginst charles darwin. (punctuated patterns)
+notebook of darwin
+if space is more important than time in the history of life, then it explains why species are so damn stable.
+
+lasting morphological changes come only after genetic evolution, when
+isolated reproductive communities, does not exchange with other species.
+
+selection is generation by generation, not saltation, but it can be so rapid that it looks like saltation in fossil records.
+
+--great ordovician biodiversification event 2021
+
+--
+https://groups.google.com/g/alt.bible.errancy/c/MHz7nSnOIhI/m/XhWHQoZzfVAJ
+
+JOHN (responding to Farrell Till)
+What of the humble mayfly? With a short lifespan and quick
+generational turnaround, these insects may be a favorable vector for
+displaying apparent evolutionary changes over times less than our
+lifespans. .........
+http://168.223.36.3/acad/research/mayfly/publications/pubmdh1979p412.pdf
+Synopsis: MD Hubbard's hypothesis on the origin of a flightless
+variant of the Ephemeroptera [the mayfly] .... <Snip>
+
+
+EPHEMEROPTERA OF THE WORLD: References
+Hubbard M.D. 1973. * ' + _
+<http://www.insecta.bio.spbu.ru/z/Eph-spp/ref-Hubbard.htm>
+ver 1979 p227
+e p412
+
+---
+https://groups.google.com/g/political-euwetopia/c/bagALBu9EYA/m/6CpT-5VfBQAJ
+usenet
+
+First off, the survivors: “These are rats, rodents, and also things like cockroaches and pigeons,” said Jingmai O’Connor, a paleontologist at the Field Museum in Chicago. These animals “are doing just fine despite the worst that we’re doing to this planet.”
+
+--
+bacteria that can degrade plastic found in cattle rumen
+
+Together Is Better: The Rumen Microbial Community as Biological Toolbox for Degradation of Synthetic Polyesters
+Bio-Technological Processes and Enzymes for the Conversion and Valorization of Plastic Wastes
+<https://www.frontiersin.org/articles/10.3389/fbioe.2021.684459/full?utm_source=fweb&utm_medium=nblog&utm_campaign=ba-sci-fbioe-bacteria-cow-stomach-rumen-can-breakdown-plastic-waste>
+
+
+--
+
+https://www.newscientist.com/issue/2806/
+https://groups.google.com/g/pondicherry-science-forum/c/Un8ft8SiPrc/m/9xIT9uJHXRIJ
+
+Slow and steady wins the evolutionary race? Not a bit of it: it's a sprint – one in which the runners might change direction at any minute
+
+Compared with the gradual process described by Darwin, this is evolution at warp speed. What is really startling, though, is that far from than being exceptional, high-speed evolution is starting to look like the norm. Very few biologists set out to look for evidence of ongoing evolution, but wherever they do, they find it - from weeds and pests to fish to humans (see "We are evolving too"). It now appears that whenever the environment changes in any way, life evolves. Fast.
+
+
+---
+
+kuznets curve
+https://oxfordre.com/environmentalscience/view/10.1093/acrefore/9780199389414.001.0001/acrefore-9780199389414-e-401
+https://www.nber.org/papers/w3914
+
+
+=---
+https://groups.google.com/g/sci.bio.evolution/c/pPrN28OsMg0/m/6AsLedn6Ni0J
+Actually, both of these pieces of information are a bit out
+of date. As far as I know, the oldest known chordates are now
+considered to be Yunnanozoon and Haikouella. They are from the
+Chengjiang Formation in Yunnan, China. They predate the Burgess
+Shale (and Pikaia) by something like 10 million years.
+
+The oldest known vertebrates are also now from China. They
+are Myllokunmingia and Haikouichthys from the
+Lower Cambrian (also from the Changjiang Formation).
+
+Some references on these occurrences include the
+following:
+
+Authors
+Chen JY. Huang DY. Li CW.
+Title
+An early Cambrian craniate-like chordate
+Source
+Nature. 402(6761):518-522, 1999 Dec 2.
+ISSN
+0028-0836
+
+====
+Taking a look at genetic diversity, Patrick Moore
+For the multitude of plants, animals and insects living in British Columbia and Pacific Northwest forests, there is no reason to believe that logging or the many forms of natural disturbance result in a net loss of genetic diversity.
+<https://www.espn.com/outdoors/general/columns/story?page=c_col_Moore_diversity_genetic>
+
+
+----
+Vídeos da Dornelas, Vellend e afins
+https://www.youtube.com/watch?v=CnVXIHM5H2I
+https://www.youtube.com/watch?v=xmk2RpkaBFA
+https://www.youtube.com/watch?v=vxt2TYut13g
+https://www.youtube.com/watch?v=_4b_s6QgIPw
+https://www.youtube.com/watch?v=3ee6uEwlaxM
+https://www.youtube.com/watch?v=pMRTIHuIF78
+
+
+
+===
+emails próprios
+ver emails para Richard usar o necessário,
+
+}valor da arara(?)
+Qual valor de uma.ave, topo da cadeia, e qual o valor do ser humano, neste nível? Atrevo dizer que muito próximos. Qual valor da espécie humana intelectualmente falando, no sistema soltar? Valor relativo, mas que parece significante e além de múltiplos graus de liberdade de uma distribuição gausiana.
+
+
+}add scope limits
+
+}rugosidade, irregularidade, grosseria, desigualdade, imperfeeição
+
+}milenarismos
+
+}igor maquieira (extinções pt1 e pt2) e outras notas
+Pseudoextincao , extinção filetica
+Extinção de fundo , extinção normal
+Extinção em massa
+Efeito Lázaro, labirinto fontes extinto no triassico e depois reencontrado nas eras seguintes Benton 2005, tbm celacanto crossopterigeos supostamente está no cretacio, esfenodontidio, esfenodon, hj sobreviventes ilhas costeiras da nova zelandia.
+
+Gregory Wrightstone ver red list.
+Especiação alopática, separação geográfica, serra da Mantiqueira barreira geográfica... Diminuição da troca genética, isolamento reprodutivo menor fluxo gênico entre populações
+
+Cavalos. Gusmão câmara depto dia inst de geociências 2007,  Pseudoextincao e extinção de fundo.
+Poucas espécies são monitoradas.
+Extinções em Massa não tem relação com nível de CO2...
+
+
+Parte final
+Vida encontra um meio, Michael Crichton
+
+Mais famosa extinção foi do cretacio, abriu espaço para grandes dinossauros, mas não foi a mais intensa das últimas 5.
+Chinês e americano, instituto Smithsonian, estimativas de dar reverso dão resultado até 2 x maiores que a realidade
+
+Ver críticas desse artigo
+União internacional para conservação da natureza. Espécies Jonathan dabes universidade macjhill
+Espécies novas parecem estar ameaçadas por ainda não terem tempo de se crescer e diferenciar
+
+Gustavo Martinelli jardim botânico rio de janeiro, dado genético eh importantes mas não eh fácil obtelos, nem gente suficiente para fazer estes na flora só Brasil
+Super estimativas.
+
+Anuário do instituto de geociências UFRJ
+Extinção né registro fóssil ipsen de Gusmão câmara
+, Ele conclui que o ser humano causa a sexta extinção em massa
+
+
+Ver links na descrição dos vídeos do Igor maquieira
+
+6a extinção em massa, do antropoceno
+
+Trilobitas foram extintos
+
+
+Vegetais parecem ser mais resistentes a extinção do que animais.
+
+Homogeneização biótica
+
+Pesquisa científica que saiu na nature
+Espécie área SAR, criaram sar reverso
+Recebeu críticas, predizia que até 2059
+
+A previsão do vellend 2016, aumento de temperatura irá aumentar diversidade nas áreas que não sejam secas
+
+
+}extinction provost
+a questão da biodiversidade eh excitante. Não sabemos a resposta e queremos descobri-la!
+
+
+}ipc
+}taxas de evolucao mordologicas sao de milhares de anos, milhões de anos para genero etc, citar usenet, 
+pode ser conciliado com taxas mais rapidas de evolucao genética
+
+}dornelas
+https://m.youtube.com/watch?v=vxt2TYut13g
+all refs in pinned comment
+Towards a macroscope: Leveraging technology to transform the breadth, scale and resolution of macroecological data. 
+Dornelas et al. 2019 - Global Ecology and Biogeography 
+https://doi.org/10.1111/geb.13025
+
+BioTIME: A database of biodiversity time series for the Anthropocene. 
+Dornelas et al. 2018 - Global Ecology and Biogeography
+https://doi.org/10.1111/geb.12729
+
+Assemblage Time Series Reveal Biodiversity Change but Not Systematic Loss. 
+Dornelas et al. 2014 - Science
+https://doi.org/10.1126/science.1248484
+
+Landscape-scale forest loss as a catalyst of population and biodiversity change.
+Daskalova et al. 2020 - Science
+
+https://doi.org/10.1126/science.aba1289
+
+The geography of biodiversity change in marine and terrestrial assemblages.
+Blowes, Supp et al. 2019- Science
+https://doi.org/10.1126/science.aaw1620
+
+Mapping human pressures on biodiversity across the planet uncovers anthropogenic threat complexes.
+Bowler et al. 2020 - People and Nature
+https://doi.org/10.1002/pan3.10071
+
+Temperature-related biodiversity change across temperate marine and terrestrial systems
+Antão et al. 2020 - Nature Ecology & Evolution
+https://doi.org/10.1038/s41559-020-1185-7
+
+A geometric basis for surface habitat complexity and biodiversity.
+Torres-Pulliza et al. 2020 - Nature Ecology & Evolution
+https://doi.org/10.1038/s41559-020-1281-8
+
+
+take away hope
+biodiversity change is nuanced and complex
+damaris torres-pulliza  e brambilla 
+in contrat to papers saying diversity loss 80% coral %50 ver madin 2018
+not monotonic
+
+
+
+Antão en Dornelas 2020
+warming climate suggests more species
+try to explain species change as a function of temperature and long term temperature
+as longas barras de erros só permit afirmar que a diversidade aumenta com temperatura em regiões temperadas nos oceanos, somente, não no terrestre, effectbdetevted only in marine location
+
+sugerese que esse fenomeno eh de novo por causa da migração de especies 
+spexies redistribution
+sugerem que climate change muda a biogeogragia e não eh uma coisa boa
+
+dornelas calculos bayesianos
+
+forest cover loss gain
+temporal. it turns out that deforestation is very old , ecpevially at 1800 and 1900 , great deforestation and before monitoring 1950 40s to present
+there is forest loss and gain but very old
+
+Daskalova 2020
+
+counter intuitive
+when you cut down the forest some organisms benefit from that
+so it accelerates extinction and speciation
+
+biodiversity, many ways of measuring it
+riqueza temporal
+composição temporal
+
+for marine realm , diversity richness is bigger and turnover is faster
+for terrestrial realm, the opposite
+richness shows more diversity increase at apparently temperate and decreasing in tropical
+blowes e dornelas 2019
+
+
+answers
+
+problems with data, were there synonins, is all data good?
+
+homogenisation?
+orthogonal
+
+mass extinction?
+answer is scale
+it also occurs in thousands of years to lose 3/4 of species
+
+climate change evidence: species redistributions or shifts
+
+most species are rare in most species
+
+the longer time series tend to flatter trends
+
+suspect ecologists in particular community ecologists care more about diversity than people who cara about conservation
+number of ways to be xoncerned with composition
+shift in function
+loss and gain about particular species
+peoples perceptions of what is valuable.and what is not, is very indpendent of data otself narratives can be constructed that explain why it is more important to care about composition than diversity
+
+
+
+Anne Magurran
+https://m.youtube.com/watch?v=xmk2RpkaBFA
+
+diversity change:
+ecosystem function, is mediated by local scale
+tempo-beta diversity
+
+updated dataset
+blowes 2019
+relative constancy in alpha
+a lot of reaggenmemt in tempo beta diversity
+seas are being reorganised more rapidly than terrestrial changes
+
+alpha is local diversity 
+magurran 2016 shows effect of homogenisation
+
+trinidade-santos 2020 mostranqie areas costeiras dentodo o mundo foram afetadas de maneira que há maior diversidade em quasentodas elas
+increased richness
+
+reconcile alpha and beta diversity changes.
+
+
+same biomass in different ecosystems but massive variation in species richness
+
+composition:
+rank shift
+richness
+replacement
+
+the more density dependent systems suffer less rank shifts, abundace is more even too
+rank shift dependsnon species, some taxon are more specific
+to see what is happening in those assemblages
+
+assemblages evenness plays important role in compositional changes
+
+
+}vellend
+na palestra do Mark Valente do YouTube essa é mais recente e ele falou em estudo eles conduziram com plantas.
+eles analisam que a diminuição da biodiversidade de um local ela afeta a função do ecossistema menos que outras variáveis como temperatura CO2 nitrogênio e etc nas plantas quando essa redução é em um nível realístico de aproximadamente até 20% na redução de biodiversidade.
+no momento mais final da palestra ele disse que pode até ser que a geração de plantas por exemplo árvores equivale a taxa de extinção no antropoceno mas é certo que a taxa de extinção no antropoceno para animais invertebrados é maior do que a taxa de geração de diversidade mas que há outros grupos que indicam que a interferência humana acabou aumentando a diversidade mas ele não indica quais grupos são esses.
+
+
+--------------------------------------------------------------
+anuário do instituto de geociencias ufrj
+
+
+conclusão, possivelmente espécies continuam extinguindo-se devido as pressões ambientais sempre mutantes (extinção de fundo), e com certeza algumas espécies que foram extintas pelo menos parcialmente por culpa do homem. Porém muitas espécies também foram salvas das extinções, chamados de "sucessos conservacionais", e as extinções não ocorrem em todos os lugares do planeta e nem todo o tempo. Não podemos afirmar categoricamente que a função ambiental foi perdida devido a influência humana quando as análises mais modernas apontam para o oposto! Se não formos meramente Neutros na geração dr biodiversidade, podemos até mesmo positivos. Será somente quando houverem muitos mais estudos, especialmente dentro dos trópicos, onde a biodiversidade é maior, e estudos.de boa qualidade, minimamente padronizados e dr longas durações que essa questão poderá ser melhor entendida. No momento, nossa influência parece ser indistinguivel de zero na biodiversidade local, de paisagem, regiaonal e, provavelmente, global.
+
+
+conclusão,
+além do que, eventos extinguicionais ocorrem em uma janela de milhares e milhões de anos, muitas espécies nem sofrem distúrbios óbvios no registro fossilifero até depois de centenas ou milhares de anos após o inicio dos períodos de extinções em massa..
+
+
+
+sobre vellend e Dornelas eles mesmos citam em suas palestras (citar link para workshop youtube) tentativas de constrangimento na divulgação dos seus resultados por parte de outros autores que constrangia-os / faziam bulying coagia-os a utilizar outros termos para explicar seus proprios resultados (e opiniões) , chantageando-os que se não fossem mais cuidadosos, as pessoas comuns da massa iriam achar que não há extinções ocorrendo, e que não haveria um débito na riqueza de espécies atualmente!
+
+
+
+Dornelas 2021
+https://m.youtube.com/watch?v=NJmd_0XDqYw
+identity of species, like a hawk or a sparrow, using jaccard index.
+abundacia também acompanha outros padrões de diversidade, ou seja alguns lugares diminuem a abundância mas em outros ela aumenta. dornelas 2014
+
+dornelas e vellend falam que as espécies devem estar diminuindo em nivel global por causa do living planet index da wwf que diz 60% deline in wildlife since desde 1970.................. ver meus vídeos
+::::
+wrightstone igor maquieira taxa de extinção caindo. 
+falar pro richard sobre dornelas e antão e do site do workshop.
+::::
+Leung 2020
+they gt the same data and analysed , data behind behind the wwf index
+60% is actually an statistical artifact in the way the index is calculated, to some extent, 
+because its driven 2.4% more extreme declines in their database . it turns out if you look at the data behind it you see a balance between winners and loosers as well.
+https://www.nature.com/articles/s41586-020-2920-6
+https://www.nature.com/articles/s41586-020-2920-6
+ver também: https://earth.org/data_visualization/biodiversity-loss-in-numbers-the-2020-wwf-report/
+
+see iberian lynx was deemed to extinction, condemned, 94 in 2002 to 855 in2020.
+lynxconnect project
+
+mass extinction when 3\4 os species go extinct. high threshold.
+mcguill et all 2015 Tree calculations show that current extinction rate would take 13.800 years to wipe out all species 9 million
+
+chase et all 2019 oikos , spatial scale and that cone graph div vs area
+
+we see widespread change in div, we don't see loss everywhere.
+
+species moving towards higher latitudes seems a sign of adaptation, 
+
+o que os impossibilita de expandirem seus horizontes de interpretação eh a idéia de que as mudanças de biodiversidade observadas, apesar de rápidas, não acompanhem as mudanças climáticas que pensam estar ocorrendo de maneira extraordinariamente rápida demais.
+
+estudos de função ecológica requerem muito mais dados....
+
+
+exemplo de sucesso conservacional
+https://www.endangered.org/12-conservation-success-stories-for-endangered-species-day/
+
+
+
+?saber quantas espécies conhecidas, quantas estimadas e como interpretar taxas de extinção e de especiação
+reproduzir tabela disso
+
+
+citar:
+Workshop Community Ecology - YouTube
+The Workshop's proposal is to discuss the main theories in Community Ecology, evaluating how different mechanisms and processes shape and maintain biological...
+<https://www.youtube.com/channel/UCPeT8tDlGifJiVE5welBEhQ/videos>
+
+Inconvenient Facts - YouTube
+Gregory Wrightstone is a geologist and author of the bestselling book, "Inconvenient Facts: The science that Al Gore doesn't want you to know". As a strong p...
+<https://www.youtube.com/channel/UCBTYfW24SKyjI01CW5lN5hw/videos>
+
+
+--USAR NA CONCLUSÃO:
+Taxonomic and functional diversity change is scale dependent | Nature Communications
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
+<https://www.nature.com/articles/s41467-018-04889-z>
+
+
+
+falar pro richard sobre dornelas e antão e do site do workshop.
+
+
+
+
