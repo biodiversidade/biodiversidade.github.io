@@ -216,3 +216,9 @@ WEBBY, B. et al. (EDS.). The Great Ordovician Biodiversification Event Columbia 
 WRIGHTSTONE, G. Mass extinction lie exposed: life is thriving. Inconvenient Blog, 13 mai. 2019a. Disponível em: <https://inconvenientfacts.xyz/blog/f/mass-extinction-lie-exposed-life-is-thriving>. Acesso em: 13 dez. 2021.
 
 WRIGHTSTONE, G. Exposing the Mass Extinction Lie. Whatts Up With That?, 13 mai. 2019b. Disponível em: <https://wattsupwiththat.com/2019/05/27/gregory-wrightstone-exposing-the-mass-extinction-lie/>. Acesso em: 13 dez. 2021.
+
+
+---
+
+Citation/citação: SONI-NETO, J. Esperança para Biodiversidade. Blog da Biodiversidade, dez. 2021. Disponível em: <https://biodiversidade.github.io/>
+
