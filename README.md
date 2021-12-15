@@ -36,11 +36,11 @@ A taxa de diversidade pode ser calculada pela diferença entre as taxas de espec
 Pimm (2014) faz um apanhado do número geral de espécies. Sem contar as archaeas, bactérias, fungos e vírus, estima-se que haja por volta de 1,5-1,9 milhões de espécies descritas (ver também Mora, 2011), enquanto a grande maioria ainda não foi. O número total de plantas terrestres deva ser maior que 450 mil. Estimativas de números de animais vão de três a 11 milhões de espécies no planeta Terra, sendo estimados entre cinco e seis milhões de espécies de insetos somente, enquanto outros autores questionam a possibilidade de uma estimativa plausível quando consideram as incertezas nos números de insetos e fungos. Espécies marinhas são estimadas entre 700 mil e 2,2 milhões, com somente aproximadamente 226 mil descritas. A média de período de existência de espécies de invertebrados e vertebrados verificada é de um a dez milhões de anos (vide taxas de extinção, tabelas 1 e 2).
 
 
-[[tabela]]
+![table 1](gfx/diversidade_brasil_final_73a11b5fd4796126.jpg)
 Tabela 1. Taxas estimadas de extinção e especiação de plantas no passado distante (fundo), passado recente (Antropoceno) e futuro (projetado). Espécies por milhão de anos por ano ou, alternativamente, espécies por espécies por milhão de anos; por exemplo, uma especiação estimada em 1,0 S/MSY significa que a cada milhão de espécies uma nova espécie surgirá a cada ano, ou, equivalentemente, cada espécie tem a probabilidade de gerar uma espécie adicional a cada milhão de anos (Vellend, 2017).
 
 
-[[tabela]]
+![table 2](gfx/diversidade_brasil_final_475376ee75b81887.jpg)
 Tabela 2. Extinções desde 1500 de acordo com o IUCN e CREO. Por base de unidade de área, a taxa de extinção nas ilhas foi 177 vezes maior para os mamíferos e 187 vezes maior para as aves do que nos continentes. A taxa continental de extinção de mamíferos foi entre 0,89 e 7,4 vezes a de fundo, enquanto a taxa de extinção de mamíferos de ilhas foi entre 82 e 702 vezes a de fundo. A taxa de extinção de aves continentais foi entre 0,69 e 5,9 vezes a de fundo, enquanto para ilhas foi entre 98 e 844 vezes a de fundo. Razão das taxas de ilha/continente (I/C). Extinções pré-históricas não documentadas, principalmente em ilhas, ampliam essas tendências. As taxas de extinção de ilhas são muito mais altas do que as taxas continentais, em grande parte devido à introdução de predadores alienígenas (incluindo o homem) e doenças (Loehle & Eschenbach, 2012).
 
 
@@ -53,7 +53,8 @@ Na história geológica, houve cinco grandes eventos de extinção, todos regist
 Close (2019) evidencia um aumento de diversidade na riqueza local durante o Cretáceo (K) e Paleogêneo (Pg), seguido de relativa estase até o presente nos tetrápodes terrestres. O padrão de estase em riqueza local de espécies antes e depois da fronteira K/Pg foi quebrado por um aumento abrupto de duas a três vezes no número de espécies. 
 
 
-[[figura]]
+![figure 1A](gfx/diversidade_brasil_final_2a8e89dc3dcb8d74.jpg)
+![figure 1B](gfx/diversidade_brasil_final_d24528963cea09a3.jpg)
 Figura 1. Padrões de diversificação de animais marinhos com esqueletos bem formados, contados como: A, ordens; B, famílias; C, gêneros; e D, espécies. Contagens ordinal, familial e genérica são baseadas em dados empíricos, enquanto que a curva de espécies é baseada em contagens reais e em simulações. A curva é plotada como porcentagens do total moderno (100%) (Benton & Emerson, 2007). 
 
 
@@ -74,7 +75,8 @@ Em Daskalova e Dornelas (2020), no domínio terrestre, estudou-se a prevalência
 Programas de conservação consagrados “sucessos ecológicos” são opinião de cada grupo e seus propósitos debatíveis (Barnaud, 2021; Cardinale, 2018), por exemplo como conciliar esforços de conservação de espécies que necessitam de recursos conflitantes (até mesmo com o ser humano) (Ceballos, 2005)?
 
 
-[[figura]]
+![figure 2A](gfx/diversidade_brasil_final_6173ceea13c194f1.jpg)
+![figure 2B](gfx/diversidade_brasil_final_7073fc637ded4b46.jpg)
 Figura 2. Painel superior: o LRS (razão logarítmica de riqueza de espécies) contra a escala espacial logarítmica. Círculos claros são de dados provenientes de observações e círculos escuros são baseadas em listas de checagem. Dados apresentados para (A) aves terrestres, (B) plantas terrestres, (C) mamíferos terrestres e (D) peixes marinhos durante o Antropoceno. A linha sólida representa o melhor ajuste de uma regressão quadrática ordinária dos mínimos quadrados e a linha tracejada são os quantis de 10% e 90%. Dependência de contexto (escala) cria uma ampla gama de variações para cada forçante, em qualquer das direções (Chase, 2019). Painel inferior: em comparação, gráfico similar para plantas terrestres de Vellend (2017).
 
 
@@ -83,7 +85,7 @@ Pesquisadores do Rio de Janeiro (Latawiec, 2016) avaliaram o plano de restauraç
 A curva ambiental de Kuznets é usada por economistas para modelagem de emissões de poluentes e renda per capta. Nos estágios iniciais do crescimento econômico, impactos humanos aumentam, incluindo emissões de poluentes, mas depois de certos níveis de desenvolvimento, a tendência se reverte (figura 3) (Stern, 2004).
 
 
-[[figura]]
+![figure 3](gfx/diversidade_brasil_final_899ece88941e4f7d.jpg)
 Figura 3. Curva ambiental de Kuznets para emissões de dióxido de enxofre. Nota-se que o impacto ambiental ou emissões per capta é uma curva em forma de U invertido como uma função do PIB per capta (Stern, 2004).
 
 
@@ -114,10 +116,10 @@ Analisei as listas de extinção da Red List, as portarias do Ministério do Mei
 
 Motivações | Mudanças | Proporção | Melhorou | Piorou | Igual
 |---|:---:|:---:|:---:|:---:|:---:|
-Não-genuínas | 8288 | 0,88 | 3756 | 4474 | 58
-Genuínas | 1092 | 0,12 | 163 | 921 | 8
-Híbridas | 5 | 0 | 5 | 0 | 0
-Total | 9385 | 1 | 3924 | 5395 | 66
+Não-genuínas | 8288 | 88,31% | 3756 | 4474 | 58
+Genuínas | 1092 | 11,64% | 163 | 921 | 8
+Híbridas | 5 | 0,05% | 5 | 0 | 0
+Total | 9385 | 100,00% | 3924 | 5395 | 66
 
 Tabela 3. Número mudanças de categoria que ocorreram de 2007 a 2021 e proporção da utilização de critérios com motivações não-genuínas (quando novos dados são avaliados, revisão taxonômica, etc), genuínas e híbridas (arquivo pessoal).
 
@@ -140,7 +142,7 @@ Análises das listas de extinção mostraram nuances importantes para correta in
 Esforços de conservação ajudam a mitigar e até mesmo reverter extinções (Pereira, 2012). Contanto que não sejam espécies insulares ou que habitem lugares restritos, e que não sejam caçadas até a morte por espécies predadoras invasoras, como o homem, a redução de habitat por si não é uma sentença de extinção.
 
 
-[[figura]]
+![figure 4](gfx/diversidade_brasil_final_e67ec21d7d230766.jpg)
 Figura 4. Desde seu início, a vida na Terra, segue uma curva exponencial representativa do crescente número de espécies na Terra até agora, sem levar em consideração as bem conhecidas extinções em massa (Maccone, 2013).
 
 
