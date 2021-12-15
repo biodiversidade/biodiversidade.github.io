@@ -114,12 +114,12 @@ Ainda, Fisher e Blomberg (2011) mostraram que espécies de mamíferos são frequ
 Analisei as listas de extinção da Red List, as portarias do Ministério do Meio Ambiente nº 444 e 445 (17/12/2014) e a Lista Vermelha produzida pelo Instituto Chico Mendez de Conservação (ICMBio), quais listas foram por sua vez utilizadas pelo Instituto Brasileiro de Geografia e Estatística (IBGE) em suas Contas de Ecossistemas de 2020.
 
 
-Motivações | Mudanças | Proporção | Melhorou | Piorou | Igual
-|---|:---:|:---:|:---:|:---:|:---:|
-Não-genuínas | 8288 | 88,31% | 3756 | 4474 | 58
-Genuínas | 1092 | 11,64% | 163 | 921 | 8
-Híbridas | 5 | 0,05% | 5 | 0 | 0
-Total | 9385 | 100,00% | 3924 | 5395 | 66
+Motivações   | Mudanças | Proporção | Melhorou | Piorou | Igual
+|------------|:--------:|:---------:|:--------:|:------:|:---:|
+Não-genuínas | 8288     |  88,31%   | 3756     | 4474   | 58
+Genuínas     | 1092     |  11,64%   |  163     |  921   |  8
+Híbridas     |    5     |   0,05%   |    5     |    0   |  0
+Total        | 9385     | 100,00%   | 3924     | 5395   | 66
 
 Tabela 3. Número mudanças de categoria que ocorreram de 2007 a 2021 e proporção da utilização de critérios com motivações não-genuínas (quando novos dados são avaliados, revisão taxonômica, etc), genuínas e híbridas (arquivo pessoal).
 
