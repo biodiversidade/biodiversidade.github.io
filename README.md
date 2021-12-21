@@ -135,7 +135,7 @@ Já Cichlocolaptes mazarbarnetti (ave da mata atlântica avistada pela última v
 
 ## 3. CONCLUSÃO
 
-A curva ambiental de Kuznets tem recebido críticas desde sua formulação. Isso se deve, em parte, por diferenças de opiniões sobre o que seria poluição. Por exemplo, emissões de CO2 tem aumentado continuamente nas últimas décadas, porém, sabemos que CO2 não é, na realidade, um poluente. Outro problema nas críticas é que certos bancos de dados utilizados são de análises de curta duração temporal. De forma geral, a curva de Kuznets revela que o desenvolvimento humano barra a poluição excessiva ao longo do tempo.
+A curva ambiental de Kuznets tem recebido críticas desde sua formulação. Isso se deve, em parte, por diferenças de opiniões sobre o que seria poluição. Por exemplo, emissões de CO2 tem aumentado continuamente nas últimas décadas, porém, sabemos que CO2 não é, na realidade, um poluente (por exemplo, Zhu, 2016). Outro problema nas críticas é que certos bancos de dados utilizados são de análises de curta duração temporal. De forma geral, a curva de Kuznets revela que o desenvolvimento humano barra a poluição excessiva ao longo do tempo.
 
 Análises das listas de extinção mostraram nuances importantes para correta interpretação pois em muitos casos as análises e conclusões são exageradas. Nota-se que a Red List é mais confiável que o relatório do IPBES pois utiliza metodologia mais precisa e melhor definida, contando espécies com nomes em Latim ao contrário do IPBES que calcula espécies que sequer têm nome, porém mudanças recentes de metodologia fizeram com que várias espécies sejam consideradas extintas. As listas brasileiras também apresentam diagnósticos exagerados, disputavelmente havendo extinção de somente duas aves da mata atlântica em análise aprofundada.
 
@@ -143,7 +143,7 @@ Esforços de conservação ajudam a mitigar e até mesmo reverter extinções (P
 
 
 ![figure 4](gfx/diversidade_brasil_final_e67ec21d7d230766.jpg)
-Figura 4. Desde seu início, a vida na Terra, segue uma curva exponencial representativa do crescente número de espécies na Terra até agora, sem levar em consideração as bem conhecidas extinções em massa (Maccone, 2013).
+Figura 4. Desde seu início, a vida na Terra segue uma curva exponencial representativa do crescente número de espécies (o gráfico não leva em consideração as bem conhecidas extinções em massa) (Maccone, 2013).
 
 
 Pressões ambientais beneficiam algumas espécies e prejudicam outras e a biodiversidade não declinou em todos os níveis ecológicos ou em todos os lugares. A função dos ecossistemas não parece estar prejudicada, de maneira geral, pela rápida mudança de composição observada, especialmente nos domínios vegetal e marinho.
@@ -217,6 +217,7 @@ WRIGHTSTONE, G. Mass extinction lie exposed: life is thriving. Inconvenient Blog
 
 WRIGHTSTONE, G. Exposing the Mass Extinction Lie. Whatts Up With That?, 13 mai. 2019b. Disponível em: <https://wattsupwiththat.com/2019/05/27/gregory-wrightstone-exposing-the-mass-extinction-lie/>. Acesso em: 13 dez. 2021.
 
+ZHU, Z. et al. Greening of the Earth and its drivers. Nature Climate Change, v. 6, n. 8, p. 791–795, ago. 2016.
 
 ---
 
