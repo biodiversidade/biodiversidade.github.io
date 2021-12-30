@@ -5,4 +5,5 @@ Disallow: */cv.html
 #all robots read the sitemap file
 #this should be a full url
 Sitemap: https://biodiversidade.github.io/sitemap.xml
+Sitemap: https://biodiversidade.github.io/sitemap.txt
 
