@@ -1,7 +1,0 @@
------------------------------------------------------------------------------------------------------
--Formatos: doc, pdf, escalonar imagens, layout, colocar número de páginas no rodapé, citação e ajustar a fonte e tamanho de fonte), html (simple html) e md.
-
--USENET = grupos não moderados e grupos moderados; lembre-se que mensagens da USENET serão descartadas depois de um tempo, não pode ser considerada ref fixa!
-
--Distribuir, usenet, grupos e fórums de biodiversidade, mandar por e-mail para algumas pessoas?, lista de e-mail (bulk)?, Blogs de publicação como autor visitante? arxiv.org, ou submeter a uma revista open access heheheheheh
------------------------------------------------------------------------------------------------------
