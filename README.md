@@ -1,5 +1,26 @@
 # Esperança para Biodiversidade
 
+----
+
+[Um bom resumo](diversidade_brasil_final_rj.pdf)
+de aproximadamente 16 mil caráteres encontra-se
+disponível em PDF.
+
+O [rascunho inicial](src/diversidade.txt)
+é o mais longo e mais completo, porém sofre de problemas
+textuais e gramaticais que foram corrigidos em versões subsequentes.
+
+As [anotações iniciais](src/diversidade_notas.txt)
+contém trechos de vários artigos
+que foram colados durante a pesquisa,
+porém não é um documento compreensivo.
+
+As [anotações da análise das listas brasileiras](src/br/notas.txt) estão
+localizadas no [diretório `src/br/`](src/br/)
+e parte da fonte da análise da Red List no [diretório `src/redlist/`](src/redlist/).
+
+---
+
 Open Access Scientific Research (CC BY 4.0). [PDF](diversidade_brasil_final.pdf). [Website](https://biodiversidade.github.io/). [FONTE](src/).
 
 
@@ -66,6 +87,8 @@ Em outra frente, aumento de produtividade vegetal sempre foi relacionado com aum
 
 Na ausência de conversão total de habitat, por exemplo uma floresta tropical tornando-se um estacionamento ou uma plantação de monocultura, a diversidade local de plantas declinou muito pouco ou não declinou, em média, no último século (figura 2, painel superior em B e painel inferior), nem há dados que indiquem que o futuro será diferente. Diferenças observadas na taxa de diversidade de espécies são fundamentalmente irrelevantes na avaliação de função de ecossistema, como, por exemplo, produtividade ou ciclagem de nutrientes.
 
+As espécies exercem função de forma mais influente na interface da *escala local*. Há tantos aumentos quanto declínios de biodiversidade, especialmente de espécies vegetais, em todas as escalas exceto na global, que registra declínio.
+
 Blowes (2019) mostra resultados de várias táxons (grupos de animais marinhos e terrestres) em diferentes partes do mundo e verificou que as tendências são indiscerníveis de zero (nota-se o erro estatístico é equivalente ao sinal para parcelas de quase todas as áreas de extensão, menos na maior), e que, em ambientes costeiros marinhos, a biodiversidade tende a aumentar, no geral.
 
 Baselga (2015) sugeriu que mudanças na cobertura da paisagem agrícola tem pouco impacto na diversidade β temporal (turnover) das assembleias (ou grupos) de aves continentais.
@@ -124,7 +147,7 @@ Total        | 9385     | 100,00%   | 3924     | 5395   | 66
 Tabela 3. Número mudanças de categoria que ocorreram de 2007 a 2021 e proporção da utilização de critérios com motivações não-genuínas (quando novos dados são avaliados, revisão taxonômica, etc), genuínas e híbridas (arquivo pessoal).
 
 
-A Red List aponta 20 espécies como extintas no Brasil em sua última atualização (Dez/2021). Espécies extintas regionalmente, como tubarões, podem migrar de território, como veremos, sem necessariamente prejuízo de função de ecossistema. Na Red List, não se observa nenhuma família vegetal (Myrtaceae e Sapotaceae) extinta no Brasil, apesar de algumas espécies dessas famílias estarem extintas. Ainda, estudos recentes (por exemplo, Hendrich, 2019) estão possibilitando melhor conhecimento da ecologia de escaravelhos e que podem ser redescobertos.
+A Red List aponta 20 espécies como extintas no Brasil em sua última atualização (Dez/2021). Espécies extintas regionalmente, como tubarões, podem migrar de território, como veremos, sem necessariamente prejuízo de função de ecossistema. Na Red List, observa-se cinco espécies vegetais extintas, todas restritas a relativamente pequenas áreas do estado do Rio de Janeiro e pouco coletadas, mas suas famílias vegetais estão longe de correr perigo (Myrtaceae e Sapotaceae). Ainda, estudos recentes estão possibilitando melhor conhecimento da ecologia de várias espécies de animais, como escaravelhos Megadytes ducalis, o que pode ajudar em seu redescobrimento (por exemplo, Hendrich, 2019).
 
 Já as Contas de Ecossistema (2020) do IBGE e Livro Vermelho do ICMBio (2018), apresentam dez espécies de animais extintos no Brasil. Deles, cinco foram extirpados regionalmente (RE) e apresentam potencial de recuperação em outros países ou áreas, e portanto não podem ser considerados extintos em escala global.
 
@@ -146,7 +169,7 @@ Esforços de conservação ajudam a mitigar e até mesmo reverter extinções (P
 Figura 4. Desde seu início, a vida na Terra segue uma curva exponencial representativa do crescente número de espécies (o gráfico não leva em consideração as bem conhecidas extinções em massa) (Maccone, 2013).
 
 
-Pressões ambientais beneficiam algumas espécies e prejudicam outras e a biodiversidade não declinou em todos os níveis ecológicos ou em todos os lugares. A função dos ecossistemas não parece estar prejudicada, de maneira geral, pela rápida mudança de composição observada, especialmente nos domínios vegetal e marinho.
+Pressões ambientais beneficiam algumas espécies e prejudicam outras e a biodiversidade não declinou em todos os níveis ecológicos ou em todos os lugares. A função dos ecossistemas não parece estar prejudicada, de maneira geral, pela rápida mudança de composição observada, especialmente nos domínios vegetal e marinho, em que pese haver uma homogenização de espécies nas escalas local e regional.
 
 Por fim, a geração de biodiversidade obedece à segunda lei da termodinâmica pois aumenta a geração de entropia, e portanto a entropia total do sistema (Skene, 2005). Não há como frearmos esse grande reator biológico que é o planeta Terra (figura 4)!
 

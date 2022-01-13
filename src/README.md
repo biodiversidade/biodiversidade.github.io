@@ -6,7 +6,7 @@ Anotações estão em documentos em txt, doc ou odt.
 
 ----
 
-[Um bom resumo](diversidade_brasil_final_rj.pdf)
+[Um bom resumo](../diversidade_brasil_final_rj.pdf)
 de aproximadamente 16 mil caráteres encontra-se
 disponível em PDF.
 
@@ -16,7 +16,7 @@ textuais e gramaticais que foram corrigidos em versões subsequentes.
 
 As [anotações iniciais](diversidade_notas.txt)
 contém trechos de vários artigos
-que foram colados durante a pesquisa e várias notas
+que foram colados durante a pesquisa,
 porém não é um documento compreensivo.
 
 As [anotações da análise das listas brasileiras](br/notas.txt) estão
