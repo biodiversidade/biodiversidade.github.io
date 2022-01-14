@@ -1,6 +1,5 @@
 # Esperança para Biodiversidade
 
-----
 
 [Um bom resumo](diversidade_brasil_final_rj.pdf)
 de aproximadamente 16 mil caráteres encontra-se
