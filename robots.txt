@@ -1,7 +1,7 @@
 #robots.txt from biodiversidade.github.io mountaineerbr
 User-agent: *
 Disallow: */cv.html
-
+ 
 #all robots read the sitemap file
 #this should be a full url
 Sitemap: https://biodiversidade.github.io/sitemap.xml
