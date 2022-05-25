@@ -39,7 +39,7 @@ Palavras-chave: mudança de biodiversidade, pressão antrópica, ecologia de com
 
 Com maior tempo de evolução das espécies, menos mudanças podem ser observadas, pois mutações geradas muito rapidamente por pressões ambientais variantes não são possíveis de serem percebidas com baixa resolução temporal, como nos estudos de evolução fossilífera. Alterações ambientais promovem a “Corrida da Rainha Vermelha” em diversos níveis de função e os organismos sempre mudam mais ainda que para retornar e acompanhar um estado anterior.
 
-Lamarck, Darwin e Wallace são gradualistas em suas teorias de evolução. O geólogo Niels Eldredge em 1972, com suas observações de fósseis, verificou que há longos e tediosos períodos sem mudança na morfologia de espécies que chamou de “estase” e que os mesmos fatores ambientais dirigindo extinções também são responsáveis por padrões de especiação. Com isso, formulou a teoria do “equilíbrio pontuado”, quando novos padrões de especiação furam longos períodos monótonos de estase biológica. Elementos genéticos transponíveis (transposons) são essenciais nesse fenômeno (Casanova, 2020).
+Lamarck, Darwin e Wallace são gradualistas em suas teorias de evolução. O geólogo Niels Eldredge em 1972, com suas observações de fósseis, verificou que há longos e tediosos períodos sem mudança na morfologia de espécies que chamou de “estase” (de estático) e que os mesmos fatores ambientais dirigindo extinções também são responsáveis por padrões de especiação. Com isso, formulou a teoria do “equilíbrio pontuado”, quando novos padrões de especiação furam longos períodos monótonos de estase biológica. Elementos genéticos transponíveis (transposons) são essenciais nesse fenômeno (Casanova, 2020).
 
 A pressão ambiental deve atingir toda a espécia geograficamente e as mudanças morfológicas somente ocorrerão depois da evolução genética e quando comunidades reprodutoras isoladas não puderem mais trocar informação com outras espécies relacionadas (subespécies).
 
@@ -138,7 +138,7 @@ Genuínas     | 1092     |  11,64%   |  163     |  921   |  8
 Híbridas     |    5     |   0,05%   |    5     |    0   |  0
 Total        | 9385     | 100,00%   | 3924     | 5395   | 66
 
-Tabela 3. Número mudanças de categoria que ocorreram de 2007 a 2021 e proporção da utilização de critérios com motivações não-genuínas (quando novos dados são avaliados, revisão taxonômica, etc), genuínas e híbridas (arquivo pessoal).
+Tabela 3. Número mudanças de categoria que ocorreram de 2007 a 2021 e proporção da utilização de critérios com motivações não-genuínas (quando novos dados são avaliados, revisão taxonômica, etc), genuínas e híbridasda Red List do IUCN (arquivo pessoal).
 
 
 A Red List aponta 20 espécies como extintas no Brasil em sua última atualização (Dez/2021). Espécies extintas regionalmente, como tubarões, podem migrar de território, como veremos, sem necessariamente prejuízo de função de ecossistema. Na Red List, não se observa nenhuma família vegetal (Myrtaceae e Sapotaceae) extinta no Brasil, apesar de algumas espécies dessas famílias estarem extintas. Ainda, estudos recentes (por exemplo, Hendrich, 2019) estão possibilitando melhor conhecimento da ecologia de escaravelhos e que podem ser redescobertos.

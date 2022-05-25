@@ -143,7 +143,7 @@ Genuínas     | 1092     |  11,64%   |  163     |  921   |  8
 Híbridas     |    5     |   0,05%   |    5     |    0   |  0
 Total        | 9385     | 100,00%   | 3924     | 5395   | 66
 
-Tabela 3. Número mudanças de categoria que ocorreram de 2007 a 2021 e proporção da utilização de critérios com motivações não-genuínas (quando novos dados são avaliados, revisão taxonômica, etc), genuínas e híbridas (arquivo pessoal).
+Tabela 3. Número mudanças de categoria que ocorreram de 2007 a 2021 e proporção da utilização de critérios com motivações não-genuínas (quando novos dados são avaliados, revisão taxonômica, etc), genuínas e híbridasda Red List do IUCN (arquivo pessoal).
 
 
 A Red List aponta 20 espécies como extintas no Brasil em sua última atualização (Dez/2021). Espécies extintas regionalmente, como tubarões, podem migrar de território, como veremos, sem necessariamente prejuízo de função de ecossistema. Na Red List, observa-se cinco espécies vegetais extintas, todas restritas a relativamente pequenas áreas do estado do Rio de Janeiro e pouco coletadas, mas suas famílias vegetais estão longe de correr perigo (Myrtaceae e Sapotaceae). Ainda, estudos recentes estão possibilitando melhor conhecimento da ecologia de várias espécies de animais, como escaravelhos Megadytes ducalis, o que pode ajudar em seu redescobrimento (por exemplo, Hendrich, 2019).
