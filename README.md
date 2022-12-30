@@ -37,6 +37,103 @@ Keywords: biodiversity change, anthropic pressure, community ecology
 Desde o começo da colonização europeia, espécies exóticas têm causado problemas e preocupações sobre perda de biodiversidade estão em jogo. Revisamos a literatura científica para melhor entender qual o papel que a biodiversidade executa nas escalas global, regional e local, e se mudanças na composição de biodiversidade afetam a funcionalidade do ecossistema. Também analisamos várias Listas Vermelhas e relatórios de entidades mundiais e brasileiras. Espécies de interesse podem se recuperar se predação ativa for barrada e esforços de conservação empreendidos. Concluímos que relatórios baseados nas Listas Vermelhas são exagerados e que não há ameaça iminente de perda de biodiversidade em vista.
 Palavras-chave: mudança de biodiversidade, pressão antrópica, ecologia de comunidades, red list
 
+---
+
+## Introduction
+
+Threats from environmentalist groups about the effects of climate change are not restricted to the supposed global warming but also include a pleiad of other misfortunes and extreme events that develop simultaneously such as sea level rise, ocean water acidification and, in the tropical and temperate forests, a large loss of biodiversity with drastic extinction of animal and plant species in an uncontrolled manner, even menacing survival of the human species. In this chapter we propose to debate this prediction under the light of science, detached from emotional tension and apocalyptic debate that is propelled by peers from scientific papers and books. Source and complete research of this present paper can be found at the website <https://biodiversidade.github.io/>.
+
+Lamarck, Darwin and Wallace are gradualists in their evolution theories. The geologist Niels Eldredge with his observations of fossils in 1972, noticed long and monotonous periods without morphological body modifications of species which periods he coined ‘stasis’ (from static) and hypothesised that the same environment pressures directing extinctions are also responsible for speciation patterns. With that, he formulated the “punctuated equilibrium” theory in which new speciation patterns punctuate long and monotonous periods of biological stasis. Transposable genetic elements (transposons) play a crucial role in this phenomenon.
+
+Environment pressure must reach all the species geographically and morphological change only occurs after genetic evolution and when isolated breeding communities can no longer exchange information with related species (subspecies). 
+
+In Darwin’s notes when he transected South America, Brazil and Argentina, in 1832, he wondered whatever the reason for low species diversity of some biological genera. If space were more important than time in the history of life, that could explain species stability in an integrated continental territory such as Brazil over time, in contrast with species related to each other albeit morphologically distinct he observed in archipelagos.
+
+Biological diversity rates can be calculated subtracting speciation and extinction rates over a geographical locality (macroecology) or over time (macroevolution). Since approximately the 1600s, there are well recorded changes in species composition in various areas in the world.
+
+Excluding archaea, bacteria, fungi and virus, that is estimated to be about 1.5-1.9 million described species while the great majority has not been. Total number of terrestrial plants must be greater than 450 thousand. Animal estimates range from 3 to 11 million species on planet Earth, while insects alone can range from 5 to 6 million species. Other authors question the possibility of a plausible estimate when all uncertainties in the number of insects and fungi are taken under account. Marine species are estimated between 700 thousand and 2.2 million, with only approximately 226 thousand described out of those. Observed mean lifetime of invertebrate and vertebrate species is from one to 10 million years.
+
+In geological history, there were five great extinction events, all recorded in the Phanerozoic some 570 million years ago and mostly their conclusion coincided with the start of speciation events. The first great speciation event was the Cambrian Explosion of skeletal marine animals approximately 540 million years ago. The second is called the Great Ordovician Biodiversification Event (GOBE). That would be an excessive simplification to think that a dramatic event unchained big biodiversity pulses in all fossil groups at the global scale in a particular time frame, for example, GOBE was not a single event.
+
+There was biodiversity increase in local richness during Cretaceous (K) and Paleogene (Pg), followed by relative stasis until present terrestrial tetrapods. Stasis pattern in local richness of species before and after the K/Pg frontier was broken by an abrupt increase of two to three times in number of species.
+
+After a time lapse of the order of ten million years after a mass extinction the original level of biodiversity is restored in communities as result of increased speciation rate. Speciation rate apparently culminates roughly ten million years after the end of a mass extinction event and remains accelerated.
+
+
+## Discussion
+
+Plant production increase has always been linked to local biodiversity gain. In the last decade, there were published papers which go against various conservationism assumptions. Recent analyses refute the link between diversity loss of plant species and ecosystem function and question alleged motivations of current biodiversity conservationism when confronted with experimental results.
+
+In the absence of total habitat conversion, e. g. when a tropical forest becomes a parking lot or a monoculture crop, local plant diversity declined very little or not at all, on average, in the last century  (figure 1, upper panel in B and lower panel), nor there is available data that can forecast otherwise in the future. Observed species diversity rates are irrelevant in ecosystem function assessment, e. g. production and nutrient cycling.
+
+Species play more influent roles in the local scale interface. There are as many increases as reductions in biodiversity, specially of plant species, in all scales except global which, arguably, registers decline.
+
+
+![figure 2A](gfx/diversidade_brasil_final_6173ceea13c194f1.jpg)
+![figure 2B](gfx/diversidade_brasil_final_7073fc637ded4b46.jpg)
+Figure 1. Upper panel: these figures show a plot of LRS (log ratio of species richness) versus log spatial scale, indicating trends (positive is an increase, negative a decrease in richness). Light circles are survey-based data. Dark circles are checklist-based data. Data are presented for (A) terrestrial birds, (B) terrestrial plants, (C) terrestrial mammals and (D) marine fishes during Antropocene. The solid line is the fit from a quadratic ordinary least squares regression and the dashed lines are the 10 and 90% quantiles. Context dependence (scale) allows a wide range of variation for each forcing in whatever direction (Chase, 2019). Lower panel: in comparison, similar graph for plants from Vellend (2017).
+
+Conservation programmes decreed “ecological successes” are opinion of each individual groups and their goals debatable, e. g. how to reconcile conservation efforts that require conflicting resources for various species (even with human beings)? Hairy and feathery animals in the top of the food chain are very much valued by people, however they occupy a more plastic niche (place) in the ecosystem and are less important than animals from the base of the food chain, such as cockroaches, which do not attract as much attention.
+
+Researchers from Rio de Janeiro evaluated restoration plans of hundreds of medium and large-sized localities in South Bahia in which there were vast Eucalyptus forests. Those areas were compared to other tropical restoration areas with regeneration time from half to 200 years. The response of biodiversity ratio in naturally regenerated forests was more similar to reference forests from countries with low, high and very high Human Development Index. This potentially reflects biodiversity restoration projected by the Environmental Kuznets Curve (EKC).
+ 
+The EKC is used by economists for projecting pollution emission vs per capta income. In early stages of economical growth human impacts increase, including pollution emission, however after reaching certain development levels this trend reverts. When the abscissa axis contains time and the ordinate axis the level of some pollutant, that can be observed an “inverted-U” curve of the pollutant level over time, which is characteristic of EKC.
+
+
+### RED LISTS AND REPORTS FROM INTERNATIONAL IPBES AND LPI, BRAZILIAN MMA, ICMBio AND IBGE AGENCIES
+
+In primary analysis, some weak points can be verified about WWF Living Planet Index (LPI). In one index from the report, the region with highest ecological footprint is the Neartic (includes United States), whereas the Neotropical region has low ecological footprint. However, the Neartic region, within the  confidence levels, practically restores its LPI index to levels close to 1970 marks, whereas the Neotropical region is presented as the worse contributor for the decline in the global index throughout the period of study. In order to conciliate these results, we must resort to EKC.
+
+There was debate in the scientific community about WWF LPI data and assertions which state that more than 50% of animal species had gone extinct in the world. Such an assertion turns out to be an artefact due to less than 3% of the index vertebrate population distorting it. When these extreme decline populations are taken out from the calculation, the global trend turns to increase of species.
+
+There are a couple authoritative lists that register extinct and extinction risk specie names. These lists are used world-wide and are frequently cited reciprocally, however their methodologies are strikingly different. In certain lists, species that were not even properly described or seen only once are considered extinct. Methodological changes that hasten the verdict of extinction of species are problematic, for e. g. mammals are frequently rediscovered, such effect called the “Lazarus effect”.
+
+In 1920, Arrhenius postulated there to exist a positive relation between area and number of species. Wilson & MacArthur formulated the theory of island biogeography in 1967 and Wilson based his allegations between species vs area. However, this relation was put upside down and it was proposed that habitat reduction must change species which in turn supposedly means reduction in the number of population or disappearance of some species, birds and great mammals being more susceptible to extinction. Event though plausible, this postulate became one more artifact amongst modern biologists.
+
+Postulates of more than 27,000 extinctions within the period called Anthropocene by scientists, the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) and United Nations proved to be extremely exaggerated.
+
+Species subject to colonise only a small area are really not deemed to have a great future, this being the case of most extinct species of the IUCN Red List in the global level, represented mainly by insect and insular species. When European predators (such as rats, snakes, dogs and cats) run across new environments native species died, with 95% of mammal extinctions being from insular and Australian species. The arrival of Europeans to Australia, which territory had been isolated from the continent for the previous 40 million years, was a single event.
+
+Extinction lists from the IUCN Red List, ordinances from Brazilian Ministry of the Environment nº 444 e 445 (17/Dec/2014) and lists produced by the Chico Mendes Institute for Biodiversity Conservation (ICMBio) were analysed in the present paper. Lists from these governmental entities were subsequently used by the Brazilian Institute of Geography and Statistics (IBGE) in its Ecosystem Accounts from 2020.
+
+
+Table 1. Number of category changes that occurred between 2007 and 2021, as well as the proportion of criteria with non-genuine (when new data, taxonomic revision and others become available), genuine and hybrid motivations of the IUCN Red List.
+
+Motivation   | Changes  | Proportion| Improved | Worsened | Same
+|------------|:--------:|:---------:|:--------:|:------:|:---:|
+Non-genuine  | 8288     |  88,31%   | 3756     | 4474   | 58
+Genuine      | 1092     |  11,64%   |  163     |  921   |  8
+Hybrid       |    5     |   0,05%   |    5     |    0   |  0
+Total        | 9385     | 100,00%   | 3924     | 5395   | 66
+
+
+IUCN Red List points 20 species as extinct in Brazil in its Dec/2021 update. Regionally extinct species, such as sharks, may migrate territory without necessarily damaging ecological function. In the Red List, five plant species were observed extinct, all poorly collected and restricted to relatively small patches of Rio de Janeiro state, however their biological families are far from danger (Myrtaceae and Sapotaceae). Still, more recent studies made progress in the ecology of various animal species, such as the scarab Megadytes ducalis, which may aid in its rediscovery.
+
+On the other hand, Brazilian IBGE Ecosystem Accounts (2020) and ICMBio Red Book (2018) present ten extinct animal species in Brazil. From those, five were regionally extirpated (RE) and have got recovery potential in other lands or countries about the world, and therefore ought not to be considered extinct in the global scale.
+
+The only tetrapods that can be considered really extinct (EX) are Noronhomys vespuccii (insular rodent from Fernando de Noronha) and Phrynomedusa fimbriata (frog natural of only Alto da Serra, Paranapiacaba, Santo André-SP). Even with 10% left of the Atlantic Rainforest, only the species Pauxi mitu (sin. Mitu mitu, Alagoas helmeted curassow) is extinct in the wild (EW), and maybe Glaucidium mooreorum (Pernambuco pygmy owl, still listed as critical risk [CR] in the IUCN Red List), both restricted to central Pernambuco state, the latter species discovered in an area of less than 5 Km² and without vocalization records since 2001.
+
+For their turn, Cichlocolaptes mazarbarnetti (Atlantic rainforest Cryptic treehunter, last seen in 2005) and Philydor novaesi (Alagoas foliage-gleaner, considered rare, observed in secondary and selectively logged forests, last seen in 2011) had their category worsened to EX by classification methodologies adopted recently. See Table 1 for motivations of category changes of IUCN Red List species from 2007 to 2021.
+
+
+## Conclusion
+
+The EKC has received criticism since its inception, partly because of differences in opinions of what pollution is. Other problematic critique revolves about duration of time lapses needed to observe the effect. In general, the EKC reveals that human development sets excessive pollution in check over time and restores environmental levels.
+
+Scrutiny of extinction lists uncovers important nuances for their proper interpretation. In multiple cases their results and deductions are exaggerated. It is noted that IUCN Red List is more dependable than IPBES report because the former uses a more conservative methodology that only counts species with Latin names, in contrast to IPBES which considers species that do not even have got a name. Recent methodology changes made many species to be considered extinct. Brazilian lists also present exaggerated diagnosis, disputably there being only two bird extinctions from Atlantic rainforest. The species vs area relation is not kept when there is habitat reduction.
+
+Conservation efforts help to alleviate or even revert extinctions. As long as species are not insular nor inhabitant of restricted places and not subject to over hunting by invading predator species, such as men, habitat reduction is not an extinction sentence.
+
+
+Figure 2. Since its inception, life on Earth follows an exponential curve representing the growing number of species (the graph does not take under account the well known mass extinctions) (Maccone, 2013).
+
+Environment pressure benefit some species and harm others and biodiversity did not decline in all levels in all places, arguably even increased in the global level when a small percentage of extreme decline populations (mainly from islands) is taken out from calculations. Ecosystem function do not seem to be hurt, in general, by the observed rapid biodiversity compositional change, specially in the plant and marine domains, even though species homogenisation may be present in the regional and local scales.
+
+Lastly, biodiversity generation follows the first and second laws of thermodynamics for it improves entropy generation and, therefore, increases entropy of the whole system. There is no way we can brake this great biological reactor that is Planet Earth (figure 2)!
+
+![figure 4](gfx/diversidade_brasil_final_e67ec21d7d230766.jpg)
+
+---
 
 ## 1. INTRODUÇÃO
 
