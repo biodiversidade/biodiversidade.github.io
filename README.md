@@ -69,8 +69,8 @@ In the absence of total habitat conversion, e. g. when a tropical forest becomes
 Species play more influent roles in the local scale interface. There are as many increases as reductions in biodiversity, specially of plant species, in all scales except global which, arguably, registers decline.
 
 
-![figure 2A](gfx/diversidade_brasil_final_6173ceea13c194f1.jpg)
-![figure 2B](gfx/diversidade_brasil_final_7073fc637ded4b46.jpg)
+![figure 1A](gfx/diversidade_brasil_final_6173ceea13c194f1.jpg)
+![figure 1B](gfx/diversidade_brasil_final_7073fc637ded4b46.jpg)
 Figure 1. Upper panel: these figures show a plot of LRS (log ratio of species richness) versus log spatial scale, indicating trends (positive is an increase, negative a decrease in richness). Light circles are survey-based data. Dark circles are checklist-based data. Data are presented for (A) terrestrial birds, (B) terrestrial plants, (C) terrestrial mammals and (D) marine fishes during Antropocene. The solid line is the fit from a quadratic ordinary least squares regression and the dashed lines are the 10 and 90% quantiles. Context dependence (scale) allows a wide range of variation for each forcing in whatever direction (Chase, 2019). Lower panel: in comparison, similar graph for plants from Vellend (2017).
 
 Conservation programmes decreed “ecological successes” are opinion of each individual groups and their goals debatable, e. g. how to reconcile conservation efforts that require conflicting resources for various species (even with human beings)? Hairy and feathery animals in the top of the food chain are very much valued by people, however they occupy a more plastic niche (place) in the ecosystem and are less important than animals from the base of the food chain, such as cockroaches, which do not attract as much attention.
@@ -125,13 +125,13 @@ Scrutiny of extinction lists uncovers important nuances for their proper interpr
 Conservation efforts help to alleviate or even revert extinctions. As long as species are not insular nor inhabitant of restricted places and not subject to over hunting by invading predator species, such as men, habitat reduction is not an extinction sentence.
 
 
+![figure 2](gfx/diversidade_brasil_final_e67ec21d7d230766.jpg)
 Figure 2. Since its inception, life on Earth follows an exponential curve representing the growing number of species (the graph does not take under account the well known mass extinctions) (Maccone, 2013).
 
 Environment pressure benefit some species and harm others and biodiversity did not decline in all levels in all places, arguably even increased in the global level when a small percentage of extreme decline populations (mainly from islands) is taken out from calculations. Ecosystem function do not seem to be hurt, in general, by the observed rapid biodiversity compositional change, specially in the plant and marine domains, even though species homogenisation may be present in the regional and local scales.
 
 Lastly, biodiversity generation follows the first and second laws of thermodynamics for it improves entropy generation and, therefore, increases entropy of the whole system. There is no way we can brake this great biological reactor that is Planet Earth (figure 2)!
 
-![figure 4](gfx/diversidade_brasil_final_e67ec21d7d230766.jpg)
 
 ---
 
