@@ -230,7 +230,7 @@ O geólogo veterano e autor do livro “Inconvenient Facts: The Science that Al 
 
 Ainda, Fisher e Blomberg (2011) mostraram que espécies de mamíferos são frequentemente redescobertas, chamado “efeito Lázaro”.
 
-Analisei as listas de extinção da Red List, as portarias do Ministério do Meio Ambiente nº 444 e 445 (17/12/2014) e a Lista Vermelha produzida pelo Instituto Chico Mendez de Conservação (ICMBio), quais listas foram por sua vez utilizadas pelo Instituto Brasileiro de Geografia e Estatística (IBGE) em suas Contas de Ecossistemas de 2020.
+Analisei as listas de extinção da Red List, as portarias do Ministério do Meio Ambiente nº 444 e 445 (17/12/2014) e a Lista Vermelha produzida pelo Instituto Chico Mendes de Conservação (ICMBio), quais listas foram por sua vez utilizadas pelo Instituto Brasileiro de Geografia e Estatística (IBGE) em suas Contas de Ecossistemas de 2020.
 
 
 Motivações   | Mudanças | Proporção | Melhorou | Piorou | Igual
