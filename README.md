@@ -41,9 +41,12 @@ Palavras-chave: mudança de biodiversidade, pressão antrópica, ecologia de com
 
 ---
 
-## Introduction
+## Preface
 
 Threats from environmentalist groups about the effects of climate change are not restricted to the supposed global warming but also include a pleiad of other misfortunes and extreme events that develop simultaneously, such as sea level rise, ocean water acidification, and in the tropical and temperate forests a large loss of biodiversity with drastic extinction of animal and plant species in an uncontrolled manner, even menacing survival of the human species. In this chapter, we propose to debate this prediction under the light of science, detached from emotional tension and apocalyptic debate that is propelled by peers in scientific articles and books. Source and complete research of this paper can be found at the website <https://biodiversidade.github.io/>.
+
+
+## Introduction
 
 Lamarck, Darwin, and Wallace are gradualists in their evolution theories. The geologist Niels Eldredge in the observation of fossils in 1972 noticed long and monotonous periods without morphological body modifications of species, which he named ‘stasis’ (from static), and hypothesised that the same environment pressures directing extinctions are also responsible for speciation patterns. With that, he formulated the “punctuated equilibrium” theory in which new speciation patterns punctuate long and monotonous periods of biological stasis. Transposable genetic elements (transposons) play a crucial role in this phenomenon.
 
